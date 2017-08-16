@@ -1,2 +1,10 @@
-
-\.ipynb_checkpoints/
+.cache
+config.json
+test_elsapy.py
+*.pyc
+*.log
+/data
+/test_data
+/logs
+/.ipynb_checkpoints
+/.DS_Store

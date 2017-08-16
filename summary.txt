@@ -1,345 +1,890 @@
 
-        TITLE:
-The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism.
-
-        AUTHORS:
-Di Martino A, Yan CG, Li Q, Denio E, Castellanos FX, Alaerts K, Anderson JS, Assaf M, Bookheimer SY, Dapretto M, Deen B, Delmonte S, Dinstein I, Ertl-Wagner B, Fair DA, Gallagher L, Kennedy DP, Keown CL, Keysers C, Lainhart JE, Lord C, Luna B, Menon V, Minshew NJ, Monk CS, Mueller S, Müller RA, Nebel MB, Nigg JT, O'Hearn K, Pelphrey KA, Peltier SJ, Rudie JD, Sunaert S, Thioux M, Tyszka JM, Uddin LQ, Verhoeven JS, Wenderoth N, Wiggins JL, Mostofsky SH, Milham MP
-
-        JOURNAL:
-Mol Psychiatry
-
-        YEAR:
-2014
-
-        URL:
-http://www.nature.com/mp/journal/v19/n6/full/mp201378a.html?foxtrotcallback=true&error=cookies_not_supported
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/23774715
-
-        ABSTRACT:
+TITLE:The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism.
+AUTHORS:Di Martino A, Yan CG, Li Q, Denio E, Castellanos FX, Alaerts K, Anderson JS, Assaf M, Bookheimer SY, Dapretto M, Deen B, Delmonte S, Dinstein I, Ertl-Wagner B, Fair DA, Gallagher L, Kennedy DP, Keown CL, Keysers C, Lainhart JE, Lord C, Luna B, Menon V, Minshew NJ, Monk CS, Mueller S, Müller RA, Nebel MB, Nigg JT, O'Hearn K, Pelphrey KA, Peltier SJ, Rudie JD, Sunaert S, Thioux M, Tyszka JM, Uddin LQ, Verhoeven JS, Wenderoth N, Wiggins JL, Mostofsky SH, Milham MP
+JOURNAL:Mol Psychiatry
+YEAR:2014
+URL:http://www.nature.com/mp/journal/v19/n6/full/mp201378a.html?foxtrotcallback=true&error=cookies_not_supported
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/23774715
+ABSTRACT:
 'Autism spectrum disorders (ASDs) represent a formidable challenge for psychiatry and neuroscience because of their high prevalence, lifelong nature, complexity and substantial heterogeneity. Facing these obstacles requires large-scale multidisciplinary efforts. Although the field of genetics has pioneered data sharing for these reasons, neuroimaging had not kept pace. In response, we introduce the Autism Brain Imaging Data Exchange (ABIDE)-a grassroots consortium aggregating and openly sharing 1112 existing resting-state functional magnetic resonance imaging (R-fMRI) data sets with corresponding structural MRI and phenotypic information from 539 individuals with ASDs and 573 age-matched typical controls (TCs; 7-64 years) (http://fcon_1000.projects.nitrc.org/indi/abide/). Here, we present this resource and demonstrate its suitability for advancing knowledge of ASD neurobiology based on analyses of 360 male subjects with ASDs and 403 male age-matched TCs. We focused on whole-brain intrinsic functional connectivity and also survey a range of voxel-wise measures of intrinsic functional brain architecture. Whole-brain analyses reconciled seemingly disparate themes of both hypo- and hyperconnectivity in the ASD literature; both were detected, although hypoconnectivity dominated, particularly for corticocortical and interhemispheric functional connectivity. Exploratory analyses using an array of regional metrics of intrinsic brain function converged on common loci of dysfunction in ASDs (mid- and posterior insula and posterior cingulate cortex), and highlighted less commonly explored regions such as the thalamus. The survey of the ABIDE R-fMRI data sets provides unprecedented demonstrations of both replication and novel discovery. By pooling multiple international data sets, ABIDE is expected to accelerate the pace of discovery setting the stage for the next generation of ASD studies.'
 
-        
+                
 
-        TITLE:
-Enhancing studies of the connectome in autism using the autism brain imaging data exchange II.
-
-        AUTHORS:
-Di Martino A, O'Connor D, Chen B, Alaerts K, Anderson JS, Assaf M, Balsters JH, Baxter L, Beggiato A, Bernaerts S, Blanken LM, Bookheimer SY, Braden BB, Byrge L, Castellanos FX, Dapretto M, Delorme R, Fair DA, Fishman I, Fitzgerald J, Gallagher L, Keehn RJ, Kennedy DP, Lainhart JE, Luna B, Mostofsky SH, Müller RA, Nebel MB, Nigg JT, O'Hearn K, Solomon M, Toro R, Vaidya CJ, Wenderoth N, White T, Craddock RC, Lord C, Leventhal B, Milham MP
-
-        JOURNAL:
-Sci Data
-
-        YEAR:
-2017
-
-        URL:
-http://www.nature.com/articles/sdata201710?error=cookies_not_supported
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/28291247
-
-        ABSTRACT:
+TITLE:Enhancing studies of the connectome in autism using the autism brain imaging data exchange II.
+AUTHORS:Di Martino A, O'Connor D, Chen B, Alaerts K, Anderson JS, Assaf M, Balsters JH, Baxter L, Beggiato A, Bernaerts S, Blanken LM, Bookheimer SY, Braden BB, Byrge L, Castellanos FX, Dapretto M, Delorme R, Fair DA, Fishman I, Fitzgerald J, Gallagher L, Keehn RJ, Kennedy DP, Lainhart JE, Luna B, Mostofsky SH, Müller RA, Nebel MB, Nigg JT, O'Hearn K, Solomon M, Toro R, Vaidya CJ, Wenderoth N, White T, Craddock RC, Lord C, Leventhal B, Milham MP
+JOURNAL:Sci Data
+YEAR:2017
+URL:http://www.nature.com/articles/sdata201710?error=cookies_not_supported
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/28291247
+ABSTRACT:
 'The second iteration of the Autism Brain Imaging Data Exchange (ABIDE II) aims to enhance the scope of brain connectomics research in Autism Spectrum Disorder (ASD). Consistent with the initial ABIDE effort (ABIDE I), that released 1112 datasets in 2012, this new multisite open-data resource is an aggregate of resting state functional magnetic resonance imaging (MRI) and corresponding structural MRI and phenotypic datasets. ABIDE II includes datasets from an additional 487 individuals with ASD and 557 controls previously collected across 16 international institutions. The combination of ABIDE I and ABIDE II provides investigators with 2156 unique cross-sectional datasets allowing selection of samples for discovery and/or replication. This sample size can also facilitate the identification of neurobiological subgroups, as well as preliminary examinations of sex differences in ASD. Additionally, ABIDE II includes a range of psychiatric variables to inform our understanding of the neural correlates of co-occurring psychopathology; 284 diffusion imaging datasets are also included. It is anticipated that these enhancements will contribute to unraveling key sources of ASD heterogeneity.'
 
-        
+                
 
-        TITLE:
-Deriving reproducible biomarkers from multi-site resting-state data: An Autism-based example.
-
-        AUTHORS:
-Abraham A, Milham MP, Di Martino A, Craddock RC, Samaras D, Thirion B, Varoquaux G
-
-        JOURNAL:
-Neuroimage
-
-        YEAR:
-2017
-
-        URL:
-http://linkinghub.elsevier.com/retrieve/pii/S1053811916305924
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27865923
-
-        ABSTRACT:
+TITLE:Deriving reproducible biomarkers from multi-site resting-state data: An Autism-based example.
+AUTHORS:Abraham A, Milham MP, Di Martino A, Craddock RC, Samaras D, Thirion B, Varoquaux G
+JOURNAL:Neuroimage
+YEAR:2017
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1053811916305924
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27865923
+ABSTRACT:
 'Resting-state functional Magnetic Resonance Imaging (R-fMRI) holds the promise to reveal functional biomarkers of neuropsychiatric disorders. However, extracting such biomarkers is challenging for complex multi-faceted neuropathologies, such as autism spectrum disorders. Large multi-site datasets increase sample sizes to compensate for this complexity, at the cost of uncontrolled heterogeneity. This heterogeneity raises new challenges, akin to those face in realistic diagnostic applications. Here, we demonstrate the feasibility of inter-site classification of neuropsychiatric status, with an application to the Autism Brain Imaging Data Exchange (ABIDE) database, a large (N=871) multi-site autism dataset. For this purpose, we investigate pipelines that extract the most predictive biomarkers from the data. These R-fMRI pipelines build participant-specific connectomes from functionally-defined brain areas. Connectomes are then compared across participants to learn patterns of connectivity that differentiate typical controls from individuals with autism. We predict this neuropsychiatric status for participants from the same acquisition sites or different, unseen, ones. Good choices of methods for the various steps of the pipeline lead to 67% prediction accuracy on the full ABIDE data, which is significantly better than previously reported results. We perform extensive validation on multiple subsets of the data defined by different inclusion criteria. These enables detailed analysis of the factors contributing to successful connectome-based prediction. First, prediction accuracy improves as we include more subjects, up to the maximum amount of subjects available. Second, the definition of functional brain areas is of paramount importance for biomarker discovery: brain areas extracted from large R-fMRI datasets outperform reference atlases in the classification tasks.'
 
-        
+                
 
-        TITLE:
-Predicting symptom severity in autism spectrum disorder based on cortical thickness measures in agglomerative data.
-
-        AUTHORS:
-Moradi E, Khundrakpam B, Lewis JD, Evans AC, Tohka J
-
-        JOURNAL:
-Neuroimage
-
-        YEAR:
-2017
-
-        URL:
-http://linkinghub.elsevier.com/retrieve/pii/S1053811916305298
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27664827
-
-        ABSTRACT:
+TITLE:Predicting symptom severity in autism spectrum disorder based on cortical thickness measures in agglomerative data.
+AUTHORS:Moradi E, Khundrakpam B, Lewis JD, Evans AC, Tohka J
+JOURNAL:Neuroimage
+YEAR:2017
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1053811916305298
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27664827
+ABSTRACT:
 'Machine learning approaches have been widely used for the identification of neuropathology from neuroimaging data. However, these approaches require large samples and suffer from the challenges associated with multi-site, multi-protocol data. We propose a novel approach to address these challenges, and demonstrate its usefulness with the Autism Brain Imaging Data Exchange (ABIDE) database. We predict symptom severity based on cortical thickness measurements from 156 individuals with autism spectrum disorder (ASD) from four different sites. The proposed approach consists of two main stages: a domain adaptation stage using partial least squares regression to maximize the consistency of imaging data across sites; and a learning stage combining support vector regression for regional prediction of severity with elastic-net penalized linear regression for integrating regional predictions into a whole-brain severity prediction. The proposed method performed markedly better than simpler alternatives, better with multi-site than single-site data, and resulted in a considerably higher cross-validated correlation score than has previously been reported in the literature for multi-site data. This demonstration of the utility of the proposed approach for detecting structural brain abnormalities in ASD from the multi-site, multi-protocol ABIDE dataset indicates the potential of designing machine learning methods to meet the challenges of agglomerative data.'
 
-        
+                
 
-        TITLE:
-Identifying differences in brain activities and an accurate detection of autism spectrum disorder using resting state functional-magnetic resonance imaging : A spatial filtering approach.
-
-        AUTHORS:
-Subbaraju V, Suresh MB, Sundaram S, Narasimhan S
-
-        JOURNAL:
-Med Image Anal
-
-        YEAR:
-2017
-
-        URL:
-http://linkinghub.elsevier.com/retrieve/pii/S1361841516301517
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27585835
-
-        ABSTRACT:
+TITLE:Identifying differences in brain activities and an accurate detection of autism spectrum disorder using resting state functional-magnetic resonance imaging : A spatial filtering approach.
+AUTHORS:Subbaraju V, Suresh MB, Sundaram S, Narasimhan S
+JOURNAL:Med Image Anal
+YEAR:2017
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1361841516301517
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27585835
+ABSTRACT:
 'This paper presents a new approach for detecting major differences in brain activities between Autism Spectrum Disorder (ASD) patients and neurotypical subjects using the resting state fMRI. Further the method also extracts discriminative features for an accurate diagnosis of ASD. The proposed approach determines a spatial filter that projects the covariance matrices of the Blood Oxygen Level Dependent (BOLD) time-series signals from both the ASD patients and neurotypical subjects in orthogonal directions such that they are highly separable. The inverse of this filter also provides a spatial pattern map within the brain that highlights those regions responsible for the distinguishable activities between the ASD patients and neurotypical subjects. For a better classification, highly discriminative log-variance features providing the maximum separation between the two classes are extracted from the projected BOLD time-series data. A detailed study has been carried out using the publicly available data from the Autism Brain Imaging Data Exchange (ABIDE) consortium for the different gender and age-groups. The study results indicate that for all the above categories, the regional differences in resting state activities are more commonly found in the right hemisphere compared to the left hemisphere of the brain. Among males, a clear shift in activities to the prefrontal cortex is observed for ASD patients while other parts of the brain show diminished activities compared to neurotypical subjects. Among females, such a clear shift is not evident; however, several regions, especially in the posterior and medial portions of the brain show diminished activities due to ASD. Finally, the classification performance obtained using the log-variance features is found to be better when compared to earlier studies in the literature.'
 
-        
+                
 
-        TITLE:
-Promises, Pitfalls, and Basic Guidelines for Applying Machine Learning Classifiers to Psychiatric Imaging Data, with Autism as an Example.
-
-        AUTHORS:
-Kassraian-Fard P, Matthis C, Balsters JH, Maathuis MH, Wenderoth N
-
-        JOURNAL:
-Front Psychiatry
-
-        YEAR:
-2016
-
-        URL:
-http://journal.frontiersin.org/article/10.3389/fpsyt.2016.00177/full
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27990125
-
-        ABSTRACT:
+TITLE:Promises, Pitfalls, and Basic Guidelines for Applying Machine Learning Classifiers to Psychiatric Imaging Data, with Autism as an Example.
+AUTHORS:Kassraian-Fard P, Matthis C, Balsters JH, Maathuis MH, Wenderoth N
+JOURNAL:Front Psychiatry
+YEAR:2016
+URL:http://journal.frontiersin.org/article/10.3389/fpsyt.2016.00177/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27990125
+ABSTRACT:
 'Most psychiatric disorders are associated with subtle alterations in brain function and are subject to large interindividual differences. Typically, the diagnosis of these disorders requires time-consuming behavioral assessments administered by a multidisciplinary team with extensive experience. While the application of Machine Learning classification methods (ML classifiers) to neuroimaging data has the potential to speed and simplify diagnosis of psychiatric disorders, the methods, assumptions, and analytical steps are currently opaque and not accessible to researchers and clinicians outside the field. In this paper, we describe potential classification pipelines for autism spectrum disorder, as an example of a psychiatric disorder. The analyses are based on resting-state fMRI data derived from a multisite data repository (ABIDE). We compare several popular ML classifiers such as support vector machines, neural networks, and regression approaches, among others. In a tutorial style, written to be equally accessible for researchers and clinicians, we explain the rationale of each classification approach, clarify the underlying assumptions, and discuss possible pitfalls and challenges. We also provide the data as well as the MATLAB code we used to achieve our results. We show that out-of-the-box ML classifiers can yield classification accuracies of about 60-70%. Finally, we discuss how classification accuracy can be further improved, and we mention methodological developments that are needed to pave the way for the use of ML classifiers in clinical practice.'
 
-        
+                
 
-        TITLE:
-Using Functional or Structural Magnetic Resonance Images and Personal Characteristic Data to Identify ADHD and Autism.
-
-        AUTHORS:
-Ghiassian S, Greiner R, Jin P, Brown MR
-
-        JOURNAL:
-PLoS One
-
-        YEAR:
-2016
-
-        URL:
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166934
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/28030565
-
-        ABSTRACT:
+TITLE:Using Functional or Structural Magnetic Resonance Images and Personal Characteristic Data to Identify ADHD and Autism.
+AUTHORS:Ghiassian S, Greiner R, Jin P, Brown MR
+JOURNAL:PLoS One
+YEAR:2016
+URL:http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166934
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/28030565
+ABSTRACT:
 'A clinical tool that can diagnose psychiatric illness using functional or structural magnetic resonance (MR) brain images has the potential to greatly assist physicians and improve treatment efficacy. Working toward the goal of automated diagnosis, we propose an approach for automated classification of ADHD and autism based on histogram of oriented gradients (HOG) features extracted from MR brain images, as well as personal characteristic data features. We describe a learning algorithm that can produce effective classifiers for ADHD and autism when run on two large public datasets. The algorithm is able to distinguish ADHD from control with hold-out accuracy of 69.6% (over baseline 55.0%) using personal characteristics and structural brain scan features when trained on the ADHD-200 dataset (769 participants in training set, 171 in test set). It is able to distinguish autism from control with hold-out accuracy of 65.0% (over baseline 51.6%) using functional images with personal characteristic data when trained on the Autism Brain Imaging Data Exchange (ABIDE) dataset (889 participants in training set, 222 in test set). These results outperform all previously presented methods on both datasets. To our knowledge, this is the first demonstration of a single automated learning process that can produce classifiers for distinguishing patients vs. controls from brain imaging data with above-chance accuracy on large datasets for two different psychiatric illnesses (ADHD and autism). Working toward clinical applications requires robustness against real-world conditions, including the substantial variability that often exists among data collected at different institutions. It is therefore important that our algorithm was successful with the large ADHD-200 and ABIDE datasets, which include data from hundreds of participants collected at multiple institutions. While the resulting classifiers are not yet clinically relevant, this work shows that there is a signal in the (f)MRI data that a learning algorithm is able to find. We anticipate this will lead to yet more accurate classifiers, over these and other psychiatric disorders, working toward the goal of a clinical tool for high accuracy differential diagnosis.'
 
-        
+                
 
-        TITLE:
-Functional connectivity decreases in autism in emotion, self, and face circuits identified by Knowledge-based Enrichment Analysis.
-
-        AUTHORS:
-Cheng W, Rolls ET, Zhang J, Sheng W, Ma L, Wan L, Luo Q, Feng J
-
-        JOURNAL:
-Neuroimage
-
-        YEAR:
-2017
-
-        URL:
-http://linkinghub.elsevier.com/retrieve/pii/S1053811916307960
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/28040544
-
-        ABSTRACT:
+TITLE:Functional connectivity decreases in autism in emotion, self, and face circuits identified by Knowledge-based Enrichment Analysis.
+AUTHORS:Cheng W, Rolls ET, Zhang J, Sheng W, Ma L, Wan L, Luo Q, Feng J
+JOURNAL:Neuroimage
+YEAR:2017
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1053811916307960
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/28040544
+ABSTRACT:
 'A powerful new method is described called Knowledge based functional connectivity Enrichment Analysis (KEA) for interpreting resting state functional connectivity, using circuits that are functionally identified using search terms with the Neurosynth database. The method derives its power by focusing on neural circuits, sets of brain regions that share a common biological function, instead of trying to interpret single functional connectivity links. This provides a novel way of investigating how task- or function-related networks have resting state functional connectivity differences in different psychiatric states, provides a new way to bridge the gap between task and resting-state functional networks, and potentially helps to identify brain networks that might be treated. The method was applied to interpreting functional connectivity differences in autism. Functional connectivity decreases at the network circuit level in 394 patients with autism compared with 473 controls were found in networks involving the orbitofrontal cortex, anterior cingulate cortex, middle temporal gyrus cortex, and the precuneus, in networks that are implicated in the sense of self, face processing, and theory of mind. The decreases were correlated with symptom severity.'
 
-        
+                
 
-        TITLE:
-Motor noise is rich signal in autism research and pharmacological treatments.
-
-        AUTHORS:
-Torres EB, Denisova K
-
-        JOURNAL:
-Sci Rep
-
-        YEAR:
-2016
-
-        URL:
-http://www.nature.com/articles/srep37422?error=cookies_not_supported
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27869148
-
-        ABSTRACT:
+TITLE:Motor noise is rich signal in autism research and pharmacological treatments.
+AUTHORS:Torres EB, Denisova K
+JOURNAL:Sci Rep
+YEAR:2016
+URL:http://www.nature.com/articles/srep37422?error=cookies_not_supported
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27869148
+ABSTRACT:
 'The human body is in constant motion, from every breath that we take, to every visibly purposeful action that we perform. Remaining completely still on command is a major achievement as involuntary fluctuations in our motions are difficult to keep under control. Here we examine the noise-to-signal ratio of micro-movements present in time-series of head motions extracted from resting-state functional magnetic resonance imaging scans in 1048 participants. These included individuals with autism spectrum disorders (ASD) and healthy-controls in shared data from the Autism Brain Imaging Data Exchange (ABIDE) and the Attention-Deficit Hyperactivity Disorder (ADHD-200) databases. We find excess noise and randomness in the ASD cases, suggesting an uncertain motor-feedback signal. A power-law emerged describing an orderly relation between the dispersion and shape of the probability distribution functions best describing the stochastic properties under consideration with respect to intelligence quotient (IQ-scores). In ASD, deleterious patterns of noise are consistently exacerbated with the presence of secondary (comorbid) neuropsychiatric diagnoses, lower verbal and performance intelligence, and autism severity. Importantly, such patterns in ASD are present whether or not the participant takes psychotropic medication. These data unambiguously establish specific noise-to-signal levels of head micro-movements as a biologically informed core feature of ASD.'
 
-        
+                
 
-        TITLE:
-Atypical effective connectivity of thalamo-cortical circuits in autism spectrum disorder.
-
-        AUTHORS:
-Chen H, Uddin LQ, Zhang Y, Duan X, Chen H
-
-        JOURNAL:
-Autism Res
-
-        YEAR:
-2016
-
-        URL:
-http://onlinelibrary.wiley.com/doi/10.1002/aur.1614/abstract;jsessionid=AA20D927B4BFC50606EEDBE4BCB5B129.f01t02
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27868393
-
-        ABSTRACT:
+TITLE:Atypical effective connectivity of thalamo-cortical circuits in autism spectrum disorder.
+AUTHORS:Chen H, Uddin LQ, Zhang Y, Duan X, Chen H
+JOURNAL:Autism Res
+YEAR:2016
+URL:http://onlinelibrary.wiley.com/doi/10.1002/aur.1614/abstract;jsessionid=7ECFA0AAD861CCED005490780597DBED.f03t02
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27868393
+ABSTRACT:
 'Autism spectrum disorder (ASD) is a neurodevelopment disorder characterized by atypical connectivity within and across multiple brain systems. We aimed to explore information transmission from the sensory periphery to information processing centers of the brain across thalamo-cortical circuits in ASD. A large multicenter dataset from the autism brain imaging data exchange was utilized. A thalamus template derived from the Automatic Anatomic Labeling atlas was subdivided into six subregions corresponding to six cortical regions using a "winner-takes-all" strategy. Granger causality analysis (GCA) was then applied to calculate effective connectivity from subregions of the thalamus to the corresponding cortical regions. Results demonstrate reduced effective connectivity from the thalamus to left prefrontal cortex (P\u2009=\u20090.023), right posterior parietal cortex (P\u2009=\u20090.03), and bilateral temporal cortex (left: P\u2009=\u20090.014; right: P\u2009=\u20090.015) in ASD compared with healthy control (HC) participants. The GCA values of the thalamus-bilateral temporal cortex connections were significantly negatively correlated with communication scores as assessed by the autism diagnostic observation schedule in the ASD group (left: P\u2009=\u20090.037; right: P\u2009=\u20090.007). Age-related analyses showed that the strengths of the thalamus-bilateral temporal cortex connections were significantly positively correlated with age in the HC group (left: P\u2009=\u20090.013; right: P\u2009=\u20090.016), but not in the ASD group (left: P\u2009=\u20090.506; right: P\u2009=\u20090.219). These results demonstrate impaired thalamo-cortical information transmission in ASD and suggest that atypical development of thalamus-temporal cortex connections may relate to communication deficits in the disorder. Autism Res 2016, 9: 1183-1190. © 2016 International Society for Autism Research, Wiley Periodicals, Inc.'
 
-        
+                
 
-        TITLE:
-Decreased amygdala functional connectivity in adolescents with autism: A resting-state fMRI study.
-
-        AUTHORS:
-Guo X, Duan X, Long Z, Chen H, Wang Y, Zheng J, Zhang Y, Li R, Chen H
-
-        JOURNAL:
-Psychiatry Res
-
-        YEAR:
-2016
-
-        URL:
-http://linkinghub.elsevier.com/retrieve/pii/S0925492716300774
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27969061
-
-        ABSTRACT:
+TITLE:Decreased amygdala functional connectivity in adolescents with autism: A resting-state fMRI study.
+AUTHORS:Guo X, Duan X, Long Z, Chen H, Wang Y, Zheng J, Zhang Y, Li R, Chen H
+JOURNAL:Psychiatry Res
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0925492716300774
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27969061
+ABSTRACT:
 'The human brain undergoes dramatic changes in amygdala-related functional connectivity network during adolescence. Given that the amygdala is a vital component of the "social brain", the Amygdala Theory of Autism has been proposed to account for atypical patterns of socio-emotional behavior in autism. Most of the previous neuroimaging evidence has concentrated on local functional or structural abnormalities of the amygdala in relation to social deficits in autism, rather than on its integrated role as part of larger brain networks. To examine whether functional integration pattern of the amygdala is altered in autism, the current study examined sixty-five adolescent subjects (30 autism and 35 healthy controls, 12-18 years old) from two independent datasets (UCLA and Leuven) of the Autism Brain Imaging Data Exchange. Whole-brain resting-state functional connectivity maps seeded in the amygdala were calculated and compared between patient and control groups. Compared with healthy controls, adolescents with autism showed decreased functional connectivity between the amygdala and subcortical regions in both datasets, including the bilateral thalamus and right putamen. These findings support the Amygdala Theory of Autism, demonstrating altered functional connectivity pattern associated with the amygdala in autism, and provide new insights into the pathophysiology of autism.'
 
-        
+                
 
-        TITLE:
-Resting-State Time-Varying Analysis Reveals Aberrant Variations of Functional Connectivity in Autism.
-
-        AUTHORS:
-Yao Z, Hu B, Xie Y, Zheng F, Liu G, Chen X, Zheng W
-
-        JOURNAL:
-Front Hum Neurosci
-
-        YEAR:
-2016
-
-        URL:
-http://journal.frontiersin.org/article/10.3389/fnhum.2016.00463/full
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27695408
-
-        ABSTRACT:
+TITLE:Resting-State Time-Varying Analysis Reveals Aberrant Variations of Functional Connectivity in Autism.
+AUTHORS:Yao Z, Hu B, Xie Y, Zheng F, Liu G, Chen X, Zheng W
+JOURNAL:Front Hum Neurosci
+YEAR:2016
+URL:http://journal.frontiersin.org/article/10.3389/fnhum.2016.00463/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27695408
+ABSTRACT:
 'Recently, studies based on time-varying functional connectivity have unveiled brain states diversity in some neuropsychiatric disorders, such as schizophrenia and major depressive disorder. However, time-varying functional connectivity analysis of resting-state functional Magnetic Resonance Imaging (fMRI) have been rarely performed on the Autism Spectrum Disorder (ASD). Hence, we performed time-varying connectivity analysis on resting-state fMRI data to investigate brain states mutation in ASD children. ASD showed an imbalance of connectivity state and aberrant ratio of connectivity with different strengths in the whole brain network, and decreased connectivity associated precuneus/posterior cingulate gyrus with medial prefrontal gyrus in default mode network. As compared to typical development children, weak relevance condition (the strength of a large number of connectivities in the state was less than means minus standard deviation of all connection strength) was maintained for a longer time between brain areas of ASD children, and ratios of weak connectivity in brain states varied dramatically in the ASD. In the ASD, the abnormal brain state might be related to repetitive behaviors and stereotypical interests, and macroscopically reflect disruption of gamma-aminobutyric acid at the cellular level. The detection of brain states based on time-varying functional connectivity analysis of resting-state fMRI might be conducive for diagnosis and early intervention of ASD before obvious clinical symptoms.'
 
-        
+                
 
-        TITLE:
-Addiction: self-destruction or self-repair?
-
-        AUTHORS:
-Khantzian EJ
-
-        JOURNAL:
-J Subst Abuse Treat
-
-        YEAR:
-1989
-
-        URL:
-
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/2746713
-
-        ABSTRACT:
+TITLE:Addiction: self-destruction or self-repair?
+AUTHORS:Khantzian EJ
+JOURNAL:J Subst Abuse Treat
+YEAR:1989
+URL:
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/2746713
+ABSTRACT:
 ''
 
-        
+                
 
-        TITLE:
-Feature fusion via hierarchical supervised local CCA for diagnosis of autism spectrum disorder.
-
-        AUTHORS:
-Zhao F, Qiao L, Shi F, Yap PT, Shen D
-
-        JOURNAL:
-Brain Imaging Behav
-
-        YEAR:
-2016
-
-        URL:
-https://link.springer.com/article/10.1007%2Fs11682-016-9587-5
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/27535871
-
-        ABSTRACT:
+TITLE:Feature fusion via hierarchical supervised local CCA for diagnosis of autism spectrum disorder.
+AUTHORS:Zhao F, Qiao L, Shi F, Yap PT, Shen D
+JOURNAL:Brain Imaging Behav
+YEAR:2016
+URL:https://link.springer.com/article/10.1007%2Fs11682-016-9587-5
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27535871
+ABSTRACT:
 'Early diagnosis of autism spectrum disorder (ASD) is critical for timely medical intervention, for improving patient quality of life, and for reducing the financial burden borne by the society. A key issue in neuroimaging-based ASD diagnosis is the identification of discriminating features and then fusing them to produce accurate diagnosis. In this paper, we propose a novel framework for fusing complementary and discriminating features from different imaging modalities. Specifically, we integrate the Fisher discriminant criterion and local correlation information into the canonical correlation analysis (CCA) framework, giving a new feature fusion method, called Supervised Local CCA (SL-CCA), which caters specifically to local and global multimodal features. To alleviate the neighborhood selection problem associated with SL-CCA, we further propose a hierarchical SL-CCA (HSL-CCA), by performing SL-CCA with the gradually varying neighborhood sizes. Extensive experiments on the multimodal ABIDE database show that the proposed method achieves superior performance. In addition, based on feature weight analysis, we found that only a few specific brain regions play active roles in ASD diagnosis. These brain regions include the putamen, precuneus, and orbitofrontal cortex, which are highly associated with human emotional modulation and memory formation. These finding are consistent with the behavioral phenotype of ASD.'
 
-        
+                
 
-        TITLE:
-Atypical developmental of dorsal and ventral attention networks in autism.
-
-        AUTHORS:
-Farrant K, Uddin LQ
-
-        JOURNAL:
-Dev Sci
-
-        YEAR:
-2016
-
-        URL:
-http://onlinelibrary.wiley.com/doi/10.1111/desc.12359/abstract;jsessionid=E01AC576E20FC408FBBCF9418131E28B.f04t01
-
-        PUBMED:
-http://www.ncbi.nlm.nih.gov/pubmed/26613549
-
-        ABSTRACT:
+TITLE:Atypical developmental of dorsal and ventral attention networks in autism.
+AUTHORS:Farrant K, Uddin LQ
+JOURNAL:Dev Sci
+YEAR:2016
+URL:http://onlinelibrary.wiley.com/doi/10.1111/desc.12359/abstract;jsessionid=DF0692AA49D34A974906F7B2EB800CFB.f04t03
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26613549
+ABSTRACT:
 'Individuals with autism spectrum disorders (ASD) exhibit early and lifelong impairments in attention across multiple domains. While the disorder is known to affect attention processes, very little is currently known about the brain networks underlying attention in ASD, and even less is known about whether these atypicalities persist across the lifespan. We used functional connectivity analysis applied to resting state functional magnetic resonance imaging (fMRI) data to explore the dorsal (DAN) and ventral (VAN) attention networks in two separate age cohorts of children and adults with and without ASD. We find significant developmental differences in functional connectivity of brain regions that are critical for attention in children and adults with ASD. Specifically, children with ASD show hyper-connectivity of regions-of-interest (ROIs) in both attention networks compared with both typically developing (TD) children and adults with ASD. In contrast, adults with ASD show hypo-connectivity of these networks compared with neurotypical adults. These findings are consistent with the notion that consideration of developmental stage is critical in studies of functional connectivity in ASD. This study further illustrates diverging developmental patterns for top-down and bottom-up attention systems in autism.'
 
-        
+                
+
+TITLE:Neural Connectivity Evidence for a Categorical-Dimensional Hybrid Model of Autism Spectrum Disorder.
+AUTHORS:Elton A, Di Martino A, Hazlett HC, Gao W
+JOURNAL:Biol Psychiatry
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0006322315009166
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26707088
+ABSTRACT:
+'BACKGROUND: Autism spectrum disorder (ASD) encompasses a complex manifestation of symptoms that include deficits in social interaction and repetitive or stereotyped interests and behaviors. In keeping with the increasing recognition of the dimensional characteristics of ASD symptoms and the categorical nature of a diagnosis, we sought to delineate the neural mechanisms of ASD symptoms based on the functional connectivity of four known neural networks (i.e., default mode network, dorsal attention network, salience network, and executive control network).\n\nMETHODS: We leveraged an open data resource (Autism Brain Imaging Data Exchange) providing resting-state functional magnetic resonance imaging data sets from 90 boys with ASD and 95 typically developing boys. This data set also included the Social Responsiveness Scale as a dimensional measure of ASD traits. Seed-based functional connectivity was paired with linear regression to identify functional connectivity abnormalities associated with categorical effects of ASD diagnosis, dimensional effects of ASD-like behaviors, and their interaction.\n\nRESULTS: Our results revealed the existence of dimensional mechanisms of ASD uniquely affecting each network based on the presence of connectivity-behavioral relationships; these were independent of diagnostic category. However, we also found evidence of categorical differences (i.e., diagnostic group differences) in connectivity strength for each network as well as categorical differences in connectivity-behavioral relationships (i.e., diagnosis-by-behavior interactions), supporting the coexistence of categorical mechanisms of ASD.\n\nCONCLUSIONS: Our findings support a hybrid model for ASD characterization that includes a combination of categorical and dimensional brain mechanisms and provide a novel understanding of the neural underpinnings of ASD.'
+
+                
+
+TITLE:Alteration of functional connectivity in autism spectrum disorder: effect of age and anatomical distance.
+AUTHORS:Long Z, Duan X, Mantini D, Chen H
+JOURNAL:Sci Rep
+YEAR:2016
+URL:http://www.nature.com/articles/srep26527?error=cookies_not_supported
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27194227
+ABSTRACT:
+'Autism spectrum disorder (ASD) is associated with disruption of local- and long-range functional connectivity (FC). The direction of those changes in FC (increase or decrease), however, is inconsistent across studies. Further, age-dependent changes of distance-specific FC in ASD remain unclear. In this study, we used resting-state functional magnetic resonance imaging data from sixty-four typical controls (TC) and sixty-four patients with ASD, whom we further classified into child (<11 years), adolescent (11-18 years) and adult cohorts (>18 years). Functional connectivity (FC) analysis was conducted at voxel level. We employed a three-way analysis of covariance on FC to conduct statistical analyses. Results revealed that patients with ASD had lower FC than TC in cerebellum, fusiform gyrus, inferior occipital gyrus and posterior inferior temporal gyrus. Significant diagnosis-by-distance interaction was observed in ASD patients with reduced short-range and long-range FC in posterior cingulate cortex and medial prefrontal cortex. Importantly, we found significant diagnosis-by-age-by-distance interaction in orbitofrontal cortex with short-range FC being lower in autistic children, but -to a less extent- higher in autistic adults. Our findings suggest a major role of connection length in development changes of FC in ASD. We hope our study will facilitate deeper understanding of the neural mechanisms underlying ASD.'
+
+                
+
+TITLE:Functional Connectivity Between the Temporoparietal Cortex and Cerebellum in Autism Spectrum Disorder.
+AUTHORS:Igelström KM, Webb TW, Graziano MSA
+JOURNAL:Cereb Cortex
+YEAR:2017
+URL:https://academic.oup.com/cercor/article/27/4/2617/3056319/Functional-Connectivity-Between-the
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27073219
+ABSTRACT:
+'The neural basis of autism spectrum disorder (ASD) is not yet understood. ASD is marked by social deficits and is strongly associated with cerebellar abnormalities. We studied the organization and cerebellar connectivity of the temporoparietal junction (TPJ), an area that plays a crucial role in social cognition. We applied localized independent component analysis to resting-state fMRI data from autistic and neurotypical adolescents to yield an unbiased parcellation of the bilateral TPJ into 11 independent components (ICs). A comparison between neurotypical and autistic adolescents showed that the organization of the TPJ was not significantly altered in ASD. Second, we used the time courses of the TPJ ICs as spatially unbiased "seeds" for a functional connectivity analysis applied to voxels within the cerebellum. We found that the cerebellum contained a fine-grained, lateralized map of the TPJ. The connectivity of the TPJ subdivisions with cerebellar zones showed one striking difference in ASD. The right dorsal TPJ showed markedly less connectivity with the left Crus II. Disturbed cerebellar input to this key region for cognition and multimodal integration may contribute to social deficits in ASD. The findings might also suggest that the right TPJ and/or left Crus II are potential targets for noninvasive brain stimulation therapies.'
+
+                
+
+TITLE:Connectivity-based parcellation increases network detection sensitivity in resting state fMRI: An investigation into the cingulate cortex in autism.
+AUTHORS:Balsters JH, Mantini D, Apps MA, Eickhoff SB, Wenderoth N
+JOURNAL:Neuroimage Clin
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2213158216300572
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27114898
+ABSTRACT:
+'Although resting state fMRI (RS-fMRI) is increasingly used to generate biomarkers of psychiatric illnesses, analytical choices such as seed size and placement can lead to variable findings. Seed placement especially impacts on RS-fMRI studies of Autism Spectrum Disorder (ASD), because individuals with ASD are known to possess more variable network topographies. Here, we present a novel pipeline for analysing RS-fMRI in ASD using the cingulate cortex as an exemplar anatomical region of interest. Rather than using seeds based on previous literature, or gross morphology, we used a combination of structural information, task-independent (RS-fMRI) and task-dependent functional connectivity (Meta-Analytic Connectivity Modeling) to partition the cingulate cortex into six subregions with unique connectivity fingerprints and diverse behavioural profiles. This parcellation was consistent between groups and highly replicable across individuals (up to 93% detection) suggesting that the organisation of cortico-cingulo connections is highly similar between groups. However, our results showed an age-related increase in connectivity between the anterior middle cingulate cortex and right lateral prefrontal cortex in ASD, whilst this connectivity decreased in controls. There was also a Group\xa0×\xa0Grey Matter (GM) interaction, showing increased connectivity between the anterior cingulate cortex and the rectal gyrus in concert with increasing rectal gyrus GM in controls. By comparing our approach to previously established methods we revealed that our approach improves network detection in both groups, and that the ability to detect group differences using 4\xa0mm radius spheres varies greatly with seed placement. Using our multi-modal approach we find disrupted cortico-cingulo circuits that, based on task-dependent information, may contribute to ASD deficits in attention and social interaction. Moreover, we highlight how more sensitive approaches to RS-fMRI are crucial for establishing robust and reproducible connectivity-based biomarkers in psychiatric disorders.'
+
+                
+
+TITLE:Diagnosis of Autism Spectrum Disorders Using Temporally Distinct Resting-State Functional Connectivity Networks.
+AUTHORS:Wee CY, Yap PT, Shen D
+JOURNAL:CNS Neurosci Ther
+YEAR:2016
+URL:http://onlinelibrary.wiley.com/doi/10.1111/cns.12499/abstract;jsessionid=63CFE25BAF5E3EA1B5CBB78C5274CDEE.f02t03
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26821773
+ABSTRACT:
+'INTRODUCTION: Resting-state functional magnetic resonance imaging (R-fMRI) is dynamic in nature as neural activities constantly change over the time and are dominated by repeating brief activations and deactivations involving many brain regions. Each region participates in multiple brain functions and is part of various functionally distinct but spatially overlapping networks. Functional connectivity computed as correlations over the entire time series always overlooks interregion interactions that often occur repeatedly and dynamically in time, limiting its application to disease diagnosis.\n\nAIMS: We develop a novel framework that uses short-time activation patterns of brain connectivity to better detect subtle disease-induced disruptions of brain connectivity. A clustering algorithm is first used to temporally decompose R-fMRI time series into distinct clusters with similar spatial distribution of neural activity based on the assumption that functionally distinct networks should be largely temporally distinct as brain states do not simultaneously coexist in general. A Pearson correlation-based functional connectivity network is then constructed for each cluster to allow for better exploration of spatiotemporal dynamics of individual neural activity. To reduce significant intersubject variability and to remove possible spurious connections, we use a group-constrained sparse regression model to construct a backbone sparse network for each cluster and use it to weight the corresponding Pearson correlation network.\n\nRESULTS: The proposed method outperforms the conventional static, temporally dependent fully connected correlation-based networks by at least 7% on a publicly available autism dataset. We were able to reproduce similar results using data from other centers.\n\nCONCLUSIONS: By combining the advantages of temporal independence and group-constrained sparse regression, our method improves autism diagnosis.'
+
+                
+
+TITLE:Brain structure in autism: a voxel-based morphometry analysis of the Autism Brain Imaging Database Exchange (ABIDE).
+AUTHORS:Riddle K, Cascio CJ, Woodward ND
+JOURNAL:Brain Imaging Behav
+YEAR:2017
+URL:https://link.springer.com/article/10.1007%2Fs11682-016-9534-5
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26941174
+ABSTRACT:
+"Increased brain volume is a consistent finding in young children with autism spectrum disorders (ASD); however, the regional specificity and developmental course of abnormal brain structure are less clear. Small sample sizes, particularly among voxel-based morphometry (VBM) investigations, likely contribute to this difficulty. Recently established large-scale neuroimaging data repositories have helped clarify the neuroanatomy of neuropsychiatric disorders such as schizophrenia and may prove useful in ASD. Structural brain images from the Autism Brain Imaging Database Exchange (ABIDE), which contains over 1100 participants, were analyzing using DARTEL VBM to investigate total brain and tissue volumes, and regional brain structure abnormalities in ASD. Two, overlapping cohorts were analyzed; an 'All Subjects' cohort (n\u2009=\u2009833) that included all individuals with usable MRI data, and a 'Matched Samples' cohort (n\u2009=\u2009600) comprised of ASD and TD individuals matched, within each site, on age and sex. Total brain and grey matter volumes were enlarged by approximately 1-2\xa0% in ASD; however, the effect reached statistical significance in only the All Subjects cohort. Within the All Subjects cohort, VBM analysis revealed enlargement of the left anterior superior temporal gyrus in ASD. No significant regional changes were detected in the Matched Samples cohort. There was a non-significant reduction in the correlation between IQ and TBV in ASD compared to TD. Brain structure abnormalities in ASD individuals age 6 and older consists of a subtle increase in total brain volume due to enlargement of grey matter with little evidence of regionally specific effects."
+
+                
+
+TITLE:Sex differences in autism: a resting-state fMRI investigation of functional brain connectivity in males and females.
+AUTHORS:Alaerts K, Swinnen SP, Wenderoth N
+JOURNAL:Soc Cogn Affect Neurosci
+YEAR:2016
+URL:https://academic.oup.com/scan/article-lookup/doi/10.1093/scan/nsw027
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26989195
+ABSTRACT:
+"Autism spectrum disorders (ASD) are far more prevalent in males than in females. Little is known however about the differential neural expression of ASD in males and females. We used a resting-state fMRI-dataset comprising 42 males/42 females with ASD and 75 male/75 female typical-controls to examine whether autism-related alterations in intrinsic functional connectivity are similar or different in males and females, and particularly whether alterations reflect 'neural masculinization', as predicted by the Extreme Male Brain theory. Males and females showed a differential neural expression of ASD, characterized by highly consistent patterns of hypo-connectivity in males with ASD (compared to typical males), and hyper-connectivity in females with ASD (compared to typical females). Interestingly, patterns of hyper-connectivity in females with ASD reflected a shift towards the (high) connectivity levels seen in typical males (neural masculinization), whereas patterns of hypo-connectivity observed in males with ASD reflected a shift towards the (low) typical feminine connectivity patterns (neural feminization). Our data support the notion that ASD is a disorder of sexual differentiation rather than a disorder characterized by masculinization in both genders. Future work is needed to identify underlying factors such as sex hormonal alterations that drive these sex-specific neural expressions of ASD."
+
+                
+
+TITLE:Preserved Self-other Distinction During Empathy in Autism is Linked to Network Integrity of Right Supramarginal Gyrus.
+AUTHORS:Hoffmann F, Koehne S, Steinbeis N, Dziobek I, Singer T
+JOURNAL:J Autism Dev Disord
+YEAR:2016
+URL:https://link.springer.com/article/10.1007%2Fs10803-015-2609-0
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26476740
+ABSTRACT:
+'Autism spectrum disorder (ASD) shows deficits in self-other distinction during theory of mind (ToM). Here we investigated whether ASD patients also show difficulties in self-other distinction during empathy and if potential deficits are linked to dysfunctional resting-state connectivity patterns. In a first study, ASD patients and controls performed an emotional egocentricity paradigm and a ToMtask. In the second study, resting-state connectivity of right temporo-parietal junction and right supramarginal gyrus(rSMG) were analysed using a large-scale fMRI data set. ASD patients exhibited deficient ToM but normal emotional egocentricity, which was paralleled by reduced connectivity of regions of the ToM network and unimpaired rSMG network connectivity. These results suggest spared self-other distinction during empathy and an intact rSMG network in ASD.'
+
+                
+
+TITLE:Reorganization of functionally connected brain subnetworks in high-functioning autism.
+AUTHORS:Glerean E, Pan RK, Salmi J, Kujala R, Lahnakoski JM, Roine U, Nummenmaa L, Leppämäki S, Nieminen-von Wendt T, Tani P, Saramäki J, Sams M, Jääskeläinen IP
+JOURNAL:Hum Brain Mapp
+YEAR:2016
+URL:http://onlinelibrary.wiley.com/doi/10.1002/hbm.23084/abstract;jsessionid=1923FE413EE9BC3850E1EA730903A109.f03t01
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26686668
+ABSTRACT:
+"Previous functional connectivity studies have found both hypo- and hyper-connectivity in brains of individuals having autism spectrum disorder (ASD). Here we studied abnormalities in functional brain subnetworks in high-functioning individuals with ASD during free viewing of a movie containing social cues and interactions. Twenty-six subjects (13 with ASD) watched a 68-min movie during functional magnetic resonance imaging. For each subject, we computed Pearson's correlation between haemodynamic time-courses of each pair of 6-mm isotropic voxels. From the whole-brain functional networks, we derived individual and group-level subnetworks using graph theory. Scaled inclusivity was then calculated between all subject pairs to estimate intersubject similarity of connectivity structure of each subnetwork. Additional 54 individuals (27 with ASD) from the ABIDE resting-state database were included to test the reproducibility of the results. Between-group differences were observed in the composition of default-mode and ventro-temporal-limbic (VTL) subnetworks. The VTL subnetwork included amygdala, striatum, thalamus, parahippocampal, fusiform, and inferior temporal gyri. Further, VTL subnetwork similarity between subject pairs correlated significantly with similarity of symptom gravity measured with autism quotient. This correlation was observed also within the controls, and in the reproducibility dataset with ADI-R and ADOS scores. Our results highlight how the reorganization of functional subnetworks in individuals with ASD clarifies the mixture of hypo- and hyper-connectivity findings. Importantly, only the functional organization of the VTL subnetwork emerges as a marker of inter-individual similarities that co-vary with behavioral measures across all participants. These findings suggest a pivotal role of ventro-temporal and limbic systems in autism."
+
+                
+
+TITLE:Divide and Conquer: Sub-Grouping of ASD Improves ASD Detection Based on Brain Morphometry.
+AUTHORS:Katuwal GJ, Baum SA, Cahill ND, Michael AM
+JOURNAL:PLoS One
+YEAR:2016
+URL:http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153331
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27065101
+ABSTRACT:
+'Low success (<60%) in autism spectrum disorder (ASD) classification using brain morphometry from the large multi-site ABIDE dataset and inconsistent findings on brain morphometric abnormalities in ASD can be attributed to the ASD heterogeneity. In this study, we show that ASD brain morphometry is highly heterogeneous, and demonstrate that the heterogeneity can be mitigated and classification improved if autism severity (AS), verbal IQ (VIQ) and age are used with morphometric features. Morphometric features from structural MRIs (sMRIs) of 734 males (ASD: 361, controls: 373) of ABIDE were derived using FreeSurfer. Applying the Random Forest classifier, an AUC of 0.61 was achieved. Adding VIQ and age to morphometric features, AUC improved to 0.68. Sub-grouping the subjects by AS, VIQ and age improved the classification with the highest AUC of 0.8 in the moderate-AS sub-group (AS = 7-8). Matching subjects on age and/or VIQ in each sub-group further improved the classification with the highest AUC of 0.92 in the low AS sub-group (AS = 4-5). AUC decreased with AS and VIQ, and was the lowest in the mid-age sub-group (13-18 years). The important features were mainly from the frontal, temporal, ventricular, right hippocampal and left amygdala regions. However, they highly varied with AS, VIQ and age. The curvature and folding index features from frontal, temporal, lingual and insular regions were dominant in younger subjects suggesting their importance for early detection. When the experiments were repeated using the Gradient Boosting classifier similar results were obtained. Our findings suggest that identifying brain biomarkers in sub-groups of ASD can yield more robust and insightful results than searching across the whole spectrum. Further, it may allow identification of sub-group specific brain biomarkers that are optimized for early detection and monitoring, increasing the utility of sMRI as an important tool for early detection of ASD.'
+
+                
+
+TITLE:Mixed Effects Models for Resampled Network Statistics Improves Statistical Power to Find Differences in Multi-Subject Functional Connectivity.
+AUTHORS:Narayan M, Allen GI
+JOURNAL:Front Neurosci
+YEAR:2016
+URL:http://journal.frontiersin.org/article/10.3389/fnins.2016.00108/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27147940
+ABSTRACT:
+'Many complex brain disorders, such as autism spectrum disorders, exhibit a wide range of symptoms and disability. To understand how brain communication is impaired in such conditions, functional connectivity studies seek to understand individual differences in brain network structure in terms of covariates that measure symptom severity. In practice, however, functional connectivity is not observed but estimated from complex and noisy neural activity measurements. Imperfect subject network estimates can compromise subsequent efforts to detect covariate effects on network structure. We address this problem in the case of Gaussian graphical models of functional connectivity, by proposing novel two-level models that treat both subject level networks and population level covariate effects as unknown parameters. To account for imperfectly estimated subject level networks when fitting these models, we propose two related approaches-R (2) based on resampling and random effects test statistics, and R (3) that additionally employs random adaptive penalization. Simulation studies using realistic graph structures reveal that R (2) and R (3) have superior statistical power to detect covariate effects compared to existing approaches, particularly when the number of within subject observations is comparable to the size of subject networks. Using our novel models and methods to study parts of the ABIDE dataset, we find evidence of hypoconnectivity associated with symptom severity in autism spectrum disorders, in frontoparietal and limbic systems as well as in anterior and posterior cingulate cortices.'
+
+                
+
+TITLE:Motion and morphometry in clinical and nonclinical populations.
+AUTHORS:Pardoe HR, Kucharsky Hiess R, Kuzniecky R
+JOURNAL:Neuroimage
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1053811916301197
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27153982
+ABSTRACT:
+'INTRODUCTION: The relationship between participant motion, demographic variables and MRI-derived morphometric estimates was investigated in autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), schizophrenia and healthy controls. Participant motion was estimated using resting state fMRI and used as a proxy measure for motion during T1w MRI acquired in the same session. Analyses were carried out in scans qualitatively assessed as free from motion-related artifact.\n\nMETHODS: Whole brain T1-weighted MRI and resting state fMRI acquisitions from the ABIDE, ADHD-200 and COBRE databases were included in our analyses. Motion was estimated using coregistration of sequential resting state volumes. We investigated if motion is related to diagnosis, age and gender, and scanning site. We further determined if there is a relationship between participant motion and cortical thickness, contrast, and volumetric estimates.\n\nRESULTS: 2141 participants were included in our analyses. Participant motion was higher in all clinical groups compared with healthy controls. Younger (age<20years) and older (age>40years) people move more than individuals aged 20-40years. Increased motion is associated with reduced average cortical thickness (-0.014mm thickness per mm motion, p=0.0014) and cortical contrast (0.77% contrast reduction per mm motion, p=2.16×10(-9)) in scans that have been qualitatively assessed as free from motion artifact. Volumetric estimates were also associated with motion, however the relationships were generally weaker than cortical thickness and contrast and were dependent on the segmentation method used.\n\nCONCLUSIONS: Participant motion is increased in clinical groups and is systematically associated with morphometric estimates. These findings indicate that accounting for participant motion may be important for improving the statistical validity of morphometric studies.'
+
+                
+
+TITLE:Pallidum and lateral ventricle volume enlargement in autism spectrum disorder.
+AUTHORS:Turner AH, Greenspan KS, van Erp TGM
+JOURNAL:Psychiatry Res
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0925492716300956
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27179315
+ABSTRACT:
+"Studies on structural brain abnormalities in individuals with autism spectrum disorders (ASD) have been of limited size and many findings have not been replicated. In the largest ASD brain morphology study to date, we compared subcortical, total brain (TBV), and intracranial (ICV) volumes between 472 subjects with DSM-IV ASD diagnoses and 538 healthy volunteers (age range: 6-64 years), obtained from high-resolution structural brain scans provided by the Autism Brain Imaging Data Exchange (ABIDE). Compared to healthy volunteers, we found significantly larger pallidum (Cohen's d=0.15) and lateral ventricle volumes (Cohen's d=0.18) in ASD. These enlargements were independent of total brain volume and IQ, passed FDR correction for multiple comparisons, and were observed in overall, male-only, and medication-free subjects. In addition, intracranial, hippocampal, and caudate volumes were enlarged in ASD at a nominal statistical threshold of p<0.05. This study provides the first robust evidence for pallidum enlargement in ASD independent from TBV and encourages further study of the functional role of the pallidum in individuals with autism spectrum disorder."
+
+                
+
+TITLE:Abnormalities of Inter- and Intra-Hemispheric Functional Connectivity in Autism Spectrum Disorders: A Study Using the Autism Brain Imaging Data Exchange Database.
+AUTHORS:Lee JM, Kyeong S, Kim E, Cheon KA
+JOURNAL:Front Neurosci
+YEAR:2016
+URL:http://journal.frontiersin.org/article/10.3389/fnins.2016.00191/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27199653
+ABSTRACT:
+'Recently, the Autism Brain Imaging Data Exchange (ABIDE) project revealed decreased functional connectivity in individuals with Autism Spectrum Disorders (ASD) relative to the typically developing controls (TDCs). However, it is still questionable whether the source of functional under-connectivity in subjects with ASD is equally contributed by the ipsilateral and contralateral parts of the brain. In this study, we decomposed the inter- and intra-hemispheric regions and compared the functional connectivity density (FCD) between 458 subjects with ASD and 517 TDCs from the ABIDE database. We quantified the inter- and intra-hemispheric FCDs in the brain by counting the number of functional connectivity with all voxels in the opposite and same hemispheric brain regions, respectively. Relative to TDCs, both inter- and intra-hemispheric FCDs in the posterior cingulate cortex, lingual/parahippocampal gyrus, and postcentral gyrus were significantly decreased in subjects with ASD. Moreover, in the ASD group, the restricted and repetitive behavior subscore of the Autism Diagnostic Observation Schedule (ADOS-RRB) score showed significant negative correlations with the average inter-hemispheric FCD and contralateral FCD in the lingual/parahippocampal gyrus cluster. Also, the ADOS-RRB score showed significant negative correlations with the average contralateral FCD in the default mode network regions such as the posterior cingulate cortex and precuneus. Taken together, our findings imply that a deficit of non-social functioning processing in ASD such as restricted and repetitive behaviors and sensory hypersensitivity could be determined via both inter- and intra-hemispheric functional disconnections.'
+
+                
+
+TITLE:Neuroanatomical Alterations in High-Functioning Adults with Autism Spectrum Disorder.
+AUTHORS:Eilam-Stock T, Wu T, Spagna A, Egan LJ, Fan J
+JOURNAL:Front Neurosci
+YEAR:2016
+URL:http://journal.frontiersin.org/article/10.3389/fnins.2016.00237/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27313505
+ABSTRACT:
+'Autism spectrum disorder (ASD) is a pervasive neurodevelopmental condition, affecting cognition and behavior throughout the life span. With recent advances in neuroimaging techniques and analytical approaches, a considerable effort has been directed toward identifying the neuroanatomical underpinnings of ASD. While gray-matter abnormalities have been found throughout cortical, subcortical, and cerebellar regions of affected individuals, there is currently little consistency across findings, partly due to small sample-sizes and great heterogeneity among participants in previous studies. Here, we report voxel-based morphometry of structural magnetic resonance images in a relatively large sample of high-functioning adults with ASD (n = 66) and matched typically-developing controls (n = 66) drawn from multiple studies. We found decreased gray-matter volume in posterior brain regions, including the posterior hippocampus and cuneus, as well as increased gray-matter volume in frontal brain regions, including the medial prefrontal cortex, superior and inferior frontal gyri, and middle temporal gyrus in individuals with ASD. We discuss our results in relation to findings obtained in previous studies, as well as their potential clinical implications.'
+
+                
+
+TITLE:Asymmetry of fusiform structure in autism spectrum disorder: trajectory and association with symptom severity.
+AUTHORS:Dougherty CC, Evans DW, Katuwal GJ, Michael AM
+JOURNAL:Mol Autism
+YEAR:2016
+URL:https://molecularautism.biomedcentral.com/articles/10.1186/s13229-016-0089-5
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27226895
+ABSTRACT:
+'BACKGROUND: While asymmetry in the fusiform gyrus (FFG) has been reported in functional and structural studies in typically developing controls (TDC), few studies have examined FFG asymmetry in autism spectrum disorder (ASD) subjects and those studies are limited by small sample sizes, and confounded by cognitive ability or handedness. No previous work has examined FFG surface area or cortical thickness asymmetry in ASD; nor do we understand the trajectory of FFG asymmetry over time. Finally, it is not known how FFG structural asymmetry relates to ASD symptom severity.\n\nMETHODS: In this study, we examined FFG volume, surface area, and cortical thickness asymmetry, as well as their cross-sectional trajectories in a large sample of right-handed males aged 7 to 25 years with 128 ASD and 127 TDC subjects using general linear models. In addition, we examined the relationship between FFG asymmetry and ASD severity using the Autism Diagnostic Observation Schedule (ADOS) and Gotham autism severity scores.\n\nRESULTS: Findings revealed that while group differences were evident with mean leftward asymmetry in ASD and mean near symmetry in TDC volume and surface area, asymmetry for both groups existed on a spectrum encompassing leftward and rightward asymmetry. In ASD subjects, volume asymmetry was negatively associated with ADOS and autism severity score symptom measures, with a subset of rightward asymmetric patients being most severely affected. We also observed differential trajectory of surface area asymmetry: ASD subjects exhibited a change from leftward asymmetry toward symmetry from age 7 to 25, whereas TDCs exhibited the reverse trend with a change from near symmetry toward leftward symmetry over the observed age range.\n\nCONCLUSIONS: Abnormalities in FFG structural asymmetry are related to symptom severity in ASD and show differential developmental trajectory compared to TDC. This study is the first to note these findings. These results may have important implications for understanding the role of FFG asymmetry in ASD.'
+
+                
+
+TITLE:Default Mode Hypoconnectivity Underlies a Sex-Related Autism Spectrum.
+AUTHORS:Ypma RJ, Moseley RL, Holt RJ, Rughooputh N, Floris DL, Chura LR, Spencer MD, Baron-Cohen S, Suckling J, Bullmore ET, Rubinov M
+JOURNAL:Biol Psychiatry Cogn Neurosci Neuroimaging
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2451902216300349
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/27430030
+ABSTRACT:
+'BACKGROUND: Females and males differ significantly in the prevalence and presentation of autism spectrum conditions. One theory of this effect postulates that autistic traits lie on a sex-related continuum in the general population, and autism represents the extreme male end of this spectrum. This theory predicts that any feature of autism in males should 1) be present in autistic females, 2) differentiate between the sexes in the typical population, and 3) correlate with autistic traits. We tested these three predictions for default mode network (DMN) hypoconnectivity during the resting state, one of the most robustly found neurobiological differences in autism.\n\nMETHODS: We analyzed a primary dataset of adolescents (N = 121, 12-18 years of age) containing a relatively large number of females and a replication multisite dataset including children, adolescents, and adults (N = 980, 6-58 years of age). We quantified the average connectivity between DMN regions and tested for group differences and correlation with behavioral performance using robust regression.\n\nRESULTS: We found significant differences in DMN intraconnectivity between female controls and females with autism (p = .001 in the primary dataset; p = .009 in the replication dataset), and between female controls and male controls (p = .036 in the primary dataset; p = .002 in the replication dataset). We also found a significant correlation between DMN intraconnectivity and performance on a mentalizing task (p = .001) in the primary dataset.\n\nCONCLUSIONS: Collectively, these findings provide the first evidence for DMN hypoconnectivity as a behaviorally relevant neuroimaging phenotype of the sex-related spectrum of autistic traits, of which autism represents the extreme case.'
+
+                
+
+TITLE:Underconnected, But Not Broken? Dynamic Functional Connectivity MRI Shows Underconnectivity in Autism Is Linked to Increased Intra-Individual Variability Across Time.
+AUTHORS:Falahpour M, Thompson WK, Abbott AE, Jahedi A, Mulvey ME, Datko M, Liu TT, Müller RA
+JOURNAL:Brain Connect
+YEAR:2016
+URL:http://online.liebertpub.com/action/cookieAbsent
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26973154
+ABSTRACT:
+'Autism spectrum disorder (ASD) is characterized by core sociocommunicative impairments. Atypical intrinsic functional connectivity (iFC) has been reported in numerous studies of ASD. A majority of findings has indicated long-distance underconnectivity. However, fMRI studies have thus far exclusively examined static iFC across several minutes of scanning. We examined temporal variability of iFC, using sliding window analyses in selected high-quality (low-motion) consortium datasets from 76 ASD and 76 matched typically developing (TD) participants (Study 1) and in-house data from 32 ASD and 32 TD participants. Mean iFC and standard deviation of the sliding window correlation (SD-iFC) were computed for regions of interest (ROIs) from default mode and salience networks, as well as amygdala and thalamus. In both studies, ROI pairings with significant underconnectivity (ASD<TD) were identified. Mediation analyses showed that decreased mean iFC in the ASD groups was significantly affected by increased SD-iFC. Our study is the first to identify temporal variability across time as a significant contributing factor to the common finding of static underconnectivity in ASD. Since peak connectivity across time was not significantly reduced in ASD, static underconnectivity findings may have to be reinterpreted, suggesting that connections are not actually "broken" in ASD, but subject to greater intra-individual variability across time. Our findings indicate the need for dynamic approaches to iFC in clinical functional connectivity MRI (fcMRI) investigations.'
+
+                
+
+TITLE:Anatomical Abnormalities in Autism?
+AUTHORS:Haar S, Berman S, Behrmann M, Dinstein I
+JOURNAL:Cereb Cortex
+YEAR:2016
+URL:https://academic.oup.com/cercor/article-lookup/doi/10.1093/cercor/bhu242
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25316335
+ABSTRACT:
+"Substantial controversy exists regarding the presence and significance of anatomical abnormalities in autism spectrum disorders (ASD). The release of the Autism Brain Imaging Data Exchange (∼1000 participants, age 6-65 years) offers an unprecedented opportunity to conduct large-scale comparisons of anatomical MRI scans across groups and to resolve many of the outstanding questions. Comprehensive univariate analyses using volumetric, thickness, and surface area measures of over 180 anatomically defined brain areas, revealed significantly larger ventricular volumes, smaller corpus callosum volume (central segment only), and several cortical areas with increased thickness in the ASD group. Previously reported anatomical abnormalities in ASD including larger intracranial volumes, smaller cerebellar volumes, and larger amygdala volumes were not substantiated by the current study. In addition, multivariate classification analyses yielded modest decoding accuracies of individuals' group identity (<60%), suggesting that the examined anatomical measures are of limited diagnostic utility for ASD. While anatomical abnormalities may be present in distinct subgroups of ASD individuals, the current findings show that many previously reported anatomical measures are likely to be of low clinical and scientific significance for understanding ASD neuropathology as a whole in individuals 6-35 years old."
+
+                
+
+TITLE:Identification of segregated regions in the functional brain connectome of autistic patients by a combination of fuzzy spectral clustering and entropy analysis.
+AUTHORS:Sato JR, Balardin J, Vidal MC, Fujita A
+JOURNAL:J Psychiatry Neurosci
+YEAR:2016
+URL:
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26505141
+ABSTRACT:
+'BACKGROUND: Several neuroimaging studies support the model of abnormal development of brain connectivity in patients with autism-spectrum disorders (ASD). In this study, we aimed to test the hypothesis of reduced functional network segregation in autistic patients compared with controls.\n\nMETHODS: Functional MRI data from children acquired under a resting-state protocol (Autism Brain Imaging Data Exchange [ABIDE]) were submitted to both fuzzy spectral clustering (FSC) with entropy analysis and graph modularity analysis.\n\nRESULTS: We included data from 814 children in our analysis. We identified 5 regions of interest comprising the motor, temporal and occipitotemporal cortices with increased entropy (p < 0.05) in the clustering structure (i.e., more segregation in the controls). Moreover, we noticed a statistically reduced modularity (p < 0.001) in the autistic patients compared with the controls. Significantly reduced eigenvector centrality values (p < 0.05) in the patients were observed in the same regions that were identified in the FSC analysis.\n\nLIMITATIONS: There is considerable heterogeneity in the fMRI acquisition protocols among the sites that contributed to the ABIDE data set (e.g., scanner type, pulse sequence, duration of scan and resting-state protocol). Moreover, the sites differed in many variables related to sample characterization (e.g., age, IQ and ASD diagnostic criteria). Therefore, we cannot rule out the possibility that additional differences in functional network organization would be found in a more homogeneous data sample of individuals with ASD.\n\nCONCLUSION: Our results suggest that the organization of the whole-brain functional network in patients with ASD is different from that observed in controls, which implies a reduced modularity of the brain functional networks involved in sensorimotor, social, affective and cognitive processing.'
+
+                
+
+TITLE:Functional Connectivity of the Caudal Anterior Cingulate Cortex Is Decreased in Autism.
+AUTHORS:Zhou Y, Shi L, Cui X, Wang S, Luo X
+JOURNAL:PLoS One
+YEAR:2016
+URL:http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151879
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26985666
+ABSTRACT:
+'The anterior cingulate cortex (ACC) is frequently reported to have functionally distinct sub-regions that play key roles in different intrinsic networks. However, the contribution of the ACC, which is connected to several cortical areas and the limbic system, to autism is not clearly understood, although it may be involved in dysfunctions across several distinct but related functional domains. By comparing resting-state fMRI data from persons with autism and healthy controls, we sought to identify the abnormalities in the functional connectivity (FC) of ACC sub-regions in autism. The analyses found autism-related reductions in FC between the left caudal ACC and the right rolandic operculum, insula, postcentral gyrus, superior temporal gyrus, and the middle temporal gyrus. The FC (z-scores) between the left caudal ACC and the right insula was negatively correlated with the Stereotyped Behaviors and Restricted Interests scores of the autism group. These findings suggest that the caudal ACC is recruited selectively in the pathomechanism of autism.'
+
+                
+
+TITLE:Local brain connectivity across development in autism spectrum disorder: A cross-sectional investigation.
+AUTHORS:Dajani DR, Uddin LQ
+JOURNAL:Autism Res
+YEAR:2016
+URL:http://onlinelibrary.wiley.com/doi/10.1002/aur.1494/abstract;jsessionid=43926F90E1A49F039779111E3DB73B3F.f02t04
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26058882
+ABSTRACT:
+"There is a general consensus that autism spectrum disorder (ASD) is accompanied by alterations in brain connectivity. Much of the neuroimaging work has focused on assessing long-range connectivity disruptions in ASD. However, evidence from both animal models and postmortem examination of the human brain suggests that local connections may also be disrupted in individuals with the disorder. Here, we investigated how regional homogeneity (ReHo), a measure of similarity of a voxel's timeseries to its nearest neighbors, varies across age in individuals with ASD and typically developing (TD) individuals using a cross-sectional design. Resting-state fMRI data obtained from a publicly available database were analyzed to determine group differences in ReHo between three age cohorts: children, adolescents, and adults. In typical development, ReHo across the entire brain was higher in children than in adolescents and adults. In contrast, children with ASD exhibited marginally lower ReHo than TD children, while adolescents and adults with ASD exhibited similar levels of local connectivity as age-matched neurotypical individuals. During all developmental stages, individuals with ASD exhibited lower local connectivity in sensory processing brain regions and higher local connectivity in complex information processing regions. Further, higher local connectivity in ASD corresponded to more severe ASD symptomatology. These results demonstrate that local connectivity is disrupted in ASD across development, with the most pronounced differences occurring in childhood. Developmental changes in ReHo do not mirror findings from fMRI studies of long-range connectivity in ASD, pointing to a need for more nuanced accounts of brain connectivity alterations in the disorder."
+
+                
+
+TITLE:Intrinsic Visual-Motor Synchrony Correlates With Social Deficits in Autism.
+AUTHORS:Nebel MB, Eloyan A, Nettles CA, Sweeney KL, Ament K, Ward RE, Choe AS, Barber AD, Pekar JJ, Mostofsky SH
+JOURNAL:Biol Psychiatry
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0006322315007283
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26543004
+ABSTRACT:
+'BACKGROUND: Imitation, which is impaired in children with autism spectrum disorder (ASD) and critically depends on the integration of visual input with motor output, likely impacts both motor and social skill acquisition in children with ASD; however, it is unclear what brain mechanisms contribute to this impairment. Children with ASD also exhibit what appears to be an ASD-specific bias against using visual feedback during motor learning. Does the temporal congruity of intrinsic activity, or functional connectivity, between motor and visual brain regions contribute to ASD-associated deficits in imitation, motor, and social skills?\n\nMETHODS: We acquired resting-state functional magnetic resonance imaging scans from 100 8- to 12-year-old children (50 ASD). Group independent component analysis was used to estimate functional connectivity between visual and motor systems. Brain-behavior relationships were assessed by regressing functional connectivity measures with social deficit severity, imitation, and gesture performance scores.\n\nRESULTS: We observed increased intrinsic asynchrony between visual and motor systems in children with ASD and replicated this finding in an independent sample from the Autism Brain Imaging Data Exchange. Moreover, children with more out-of-sync intrinsic visual-motor activity displayed more severe autistic traits, while children with greater intrinsic visual-motor synchrony were better imitators.\n\nCONCLUSIONS: Our twice replicated findings confirm that visual-motor functional connectivity is disrupted in ASD. Furthermore, the observed temporal incongruity between visual and motor systems, which may reflect diminished integration of visual consequences with motor output, was predictive of the severity of social deficits and may contribute to impaired social-communicative skill development in children with ASD.'
+
+                
+
+TITLE:Identifying diagnostically-relevant resting state brain functional connectivity in the ventral posterior complex via genetic data mining in autism spectrum disorder.
+AUTHORS:Baldwin PR, Curtis KN, Patriquin MA, Wolf V, Viswanath H, Shaw C, Sakai Y, Salas R
+JOURNAL:Autism Res
+YEAR:2016
+URL:http://onlinelibrary.wiley.com/doi/10.1002/aur.1559/abstract;jsessionid=0093B6443F27BD4EF380785B714F6E7E.f01t02
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26451751
+ABSTRACT:
+'Exome sequencing and copy number variation analyses continue to provide novel insight to the biological bases of autism spectrum disorder (ASD). The growing speed at which massive genetic data are produced causes serious lags in analysis and interpretation of the data. Thus, there is a need to develop systematic genetic data mining processes that facilitate efficient analysis of large datasets. We report a new genetic data mining system, ProcessGeneLists and integrated a list of ASD-related genes with currently available resources in gene expression and functional connectivity of the human brain. Our data-mining program successfully identified three primary regions of interest (ROIs) in the mouse brain: inferior colliculus, ventral posterior complex of the thalamus (VPC), and parafascicular nucleus (PFn). To understand its pathogenic relevance in ASD, we examined the resting state functional connectivity (RSFC) of the homologous ROIs in human brain with other brain regions that were previously implicated in the neuro-psychiatric features of ASD. Among them, the RSFC of the VPC with the medial frontal gyrus (MFG) was significantly more anticorrelated, whereas the RSFC of the PN with the globus pallidus was significantly increased in children with ASD compared with healthy children. Moreover, greater values of RSFC between VPC and MFG were correlated with severity index and repetitive behaviors in children with ASD. No significant RSFC differences were detected in adults with ASD. Together, these data demonstrate the utility of our data-mining program through identifying the aberrant connectivity of thalamo-cortical circuits in children with ASD. Autism Res 2016, 9: 553-562. © 2015 International Society for Autism Research, Wiley Periodicals, Inc.'
+
+                
+
+TITLE:Periventricular white matter abnormalities and restricted repetitive behavior in autism spectrum disorder.
+AUTHORS:Blackmon K, Ben-Avi E, Wang X, Pardoe HR, Di Martino A, Halgren E, Devinsky O, Thesen T, Kuzniecky R
+JOURNAL:Neuroimage Clin
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2213158215300176
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26693400
+ABSTRACT:
+'Malformations of cortical development are found at higher rates in autism spectrum disorder (ASD) than in healthy controls on postmortem neuropathological evaluation but are more variably observed on visual review of in-vivo MRI brain scans. This may be due to the visually elusive nature of many malformations on MRI. Here, we utilize a quantitative approach to determine whether a volumetric measure of heterotopic gray matter in the white matter is elevated in people with ASD, relative to typically developing controls (TDC). Data from a primary sample of 48 children/young adults with ASD and 48 age-, and gender-matched TDCs, selected from the Autism Brain Imaging Data Exchange (ABIDE) open-access database, were analyzed to compare groups on (1) blinded review of high-resolution T1-weighted research sequences; and (2) quantitative measurement of white matter hypointensity (WMH) volume calculated from the same T1-weighted scans. Groupwise WMH volume comparisons were repeated in an independent, multi-site sample (80 ASD/80 TDC), also selected from ABIDE. Visual review resulted in equivalent proportions of imaging abnormalities in the ASD and TDC group. However, quantitative analysis revealed elevated periventricular and deep subcortical WMH volumes in ASD. This finding was replicated in the independent, multi-site sample. Periventricular WMH volume was not associated with age but was associated with greater restricted repetitive behaviors on both parent-reported and clinician-rated assessment inventories. Thus, findings demonstrate that periventricular WMH volume is elevated in ASD and associated with a higher degree of repetitive behaviors and restricted interests. Although the etiology of focal WMH clusters is unknown, the absence of age effects suggests that they may reflect a static anomaly.'
+
+                
+
+TITLE:Sex differences in structural organization of motor systems and their dissociable links with repetitive/restricted behaviors in children with autism.
+AUTHORS:Supekar K, Menon V
+JOURNAL:Mol Autism
+YEAR:2015
+URL:https://molecularautism.biomedcentral.com/articles/10.1186/s13229-015-0042-z
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26347127
+ABSTRACT:
+'BACKGROUND: Autism spectrum disorder (ASD) is diagnosed much less often in females than males. Emerging behavioral accounts suggest that the clinical presentation of autism is different in females and males, yet research examining sex differences in core symptoms of autism in affected children has been limited. Additionally, to date, there have been no systematic attempts to characterize neuroanatomical differences underlying the distinct behavioral profiles observed in girls and boys with ASD. This is in part because extant ASD studies have included a small number of girls.\n\nMETHODS: Leveraging the National Database for Autism Research (NDAR), we first analyzed symptom severity in a large sample consisting of 128 ASD girls and 614 age- and IQ-matched ASD boys. We then examined symptom severity and structural imaging data using novel multivariate pattern analysis in a well-matched group of 25 ASD girls, 25 ASD boys, 19 typically developing (TD) girls, and 19 TD boys, obtained from the Autism Brain Imaging Data Exchange (ABIDE).\n\nRESULTS: In both the NDAR and ABIDE datasets, girls, compared to boys, with ASD showed less severe repetitive/restricted behaviors (RRBs) and comparable deficits in the social and communication domains. In the ABIDE imaging dataset, gray matter (GM) patterns in the motor cortex, supplementary motor area (SMA), cerebellum, fusiform gyrus, and amygdala accurately discriminated girls and boys with ASD. This sex difference pattern was specific to ASD as the GM in these brain regions did not discriminate TD girls and boys. Moreover, GM in the motor cortex, SMA, and crus 1 subdivision of the cerebellum was correlated with RRB in girls whereas GM in the right putamen-the region that discriminated TD girls and boys-was correlated with RRB in boys.\n\nCONCLUSIONS: We found robust evidence for reduced levels of RRB in girls, compared to boys, with ASD, providing the strongest evidence to date for sex differences in a core phenotypic feature of childhood ASD. Sex differences in brain morphometry are prominent in the motor system and in areas that comprise the "social brain." Notably, RRB severity is associated with sex differences in GM morphometry in distinct motor regions. Our findings provide novel insights into the neurobiology of sex differences in childhood autism.'
+
+                
+
+TITLE:The predictive power of structural MRI in Autism diagnosis.
+AUTHORS:Katuwal GJ, Cahill ND, Baum SA, Michael AM
+JOURNAL:Conf Proc IEEE Eng Med Biol Soc
+YEAR:2015
+URL:http://ieeexplore.ieee.org:80/document/7319338/?reload=true
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26737238
+ABSTRACT:
+'Diagnosis of Autism Spectrum Disorder (ASD) using structural magnetic resonance imaging (sMRI) of the brain has been a topic of significant research interest. Previous studies using small datasets with well-matched Typically Developing Controls (TDC) report high classification accuracies (80-96%) but studies using the large heterogeneous ABIDE dataset report accuracies less than 60%. In this study we investigate the predictive power of sMRI in ASD using 373 ASD and 361 TDC male subjects from the ABIDE. Brain morphometric features were derived using FreeSurfer and classification was performed using three different techniques: Random Forest (RF), Support Vector Machine (SVM) and Gradient Boosting Machine (GBM). Although high classification accuracies were possible in individual sites (with a maximum of 97% in Caltech), the highest classification accuracy across all sites was only 60% (sensitivity = 57%, specificity = 64%). However, the accuracy across all sites improved to 67% when IQ and age information were added to morphometric features. Across all three classifiers, volume and surface area had more discriminative power. In general, important features for classification were present in the frontal and temporal regions and these regions have been implicated in ASD. This study also explores the effect of demographics and behavioral measures on the predictive power of sMRI. Results show that classification accuracy increases with autism severity and that ASD detection with sMRI is easier before the age of 10 years.'
+
+                
+
+TITLE:Multivariate classification of autism spectrum disorder using frequency-specific resting-state functional connectivity--A multi-center study.
+AUTHORS:Chen H, Duan X, Liu F, Lu F, Ma X, Zhang Y, Uddin LQ, Chen H
+JOURNAL:Prog Neuropsychopharmacol Biol Psychiatry
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0278584615300075
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26148789
+ABSTRACT:
+'BACKGROUND: Resting-state functional magnetic resonance imaging studies examining low frequency fluctuations (0.01-0.08 Hz) have revealed atypical whole brain functional connectivity patterns in adolescents with autism spectrum disorder (ASD), and these atypical patterns can be used to discriminate individuals with ASD from controls. However, at present it is unknown whether functional connectivity at specific frequency bands can be used to discriminate individuals with ASD from controls, and whether relationships with symptom severity are stronger in specific frequency bands.\n\nMETHODS: We selected 240 adolescent subjects (12-18 years old, 112 with autism spectrum disorder (101/11, males/females) and 128 healthy controls (104/24, males/females)) from 6 separate international sites in the Autism Brain Imaging Data Exchange database. Whole brain functional connectivity networks were constructed in the Slow-5 (0.01-0.027 Hz) and Slow-4 (0.027-0.073 Hz) frequency bands, which were then used as classification features.\n\nRESULTS: An accuracy of 79.17% (p<0.001) was obtained using support vector machine. Most of the discriminative features were concentrated on the Slow-4 band. In the Slow-4 band, atypical connections between the default mode network, fronto-parietal network and cingulo-opercular network were detected. A significant correlation was found between social and communication deficits as measured by the ADOS in individuals with ASD and the classification scores based on connectivity between the default mode network and the cingulo-opercular network. Connections of the thalamus were of the highest classification weight in the Slow-4 band.\n\nCONCLUSIONS: Our findings provide preliminary evidence for frequency-specific whole brain functional connectivity indices that may eventually be used to aid detection of ASD.'
+
+                
+
+TITLE:Accurate detection of autism spectrum disorder from structural MRI using extended metacognitive radial basis function network 
+AUTHORS:Subbaraju, Vigneshwaran; Sundaram, Suresh; Narasimhan, Sundararajan; Suresh, Mahanand Belathur
+JOURNAL:Expert Systems with Applications
+YEAR:12
+URL:https://api.elsevier.com/content/article/pii/S0957417415004911
+PII:S0957417415004911
+ABSTRACT:
+AbstractIn this paper, we present an accurate detection of Autism Spectrum Disorder (ASD) from structural MRI using an Extended Metacognitive Radial Basis Function Neural Classifier (EMcRBFN). An automatic whole brain Voxel Based Morphometry (VBM) approach is used to identify gray matter composition in the brain from structural Magnetic Resonance Imaging (MRI) and an improved q-Gaussian classifier and its metacognitive learning algorithm has been proposed to approximate the functional relationship between the high dimensional VBM features and the true class labels. Recent genetic studies indicate that ASD manifests in different ways between males and females and also between adolescents and adults. Accordingly, the proposed EMcRBFN classifier has been evaluated using the publicly available Autism Brain Imaging Data Exchange dataset with a comprehensive study on both males and females and also between adolescents and adults in both categories. EMcRBFN classifier performance is compared with currently existing results for ASD classification in the literature and also with well known standard classifiers. The results clearly indicate that the performance of the EMcRBFN classifier is better than that of the other classifiers considered in this study. Further, the comprehensive study also indicates that the following subregions in the brain viz., premotor cortex and supplementary motor cortex are affected for adult-females while the somatosensory cortex subregion is affected for adolescent-females with ASD. Similar results indicate that the precentral gyrus, motor cortex, medial frontal gyrus and the paracentral lobule areas are affected for adolescent males while the superior frontal gyrus and the frontal eye fields areas are affected for adult males with ASD.
+                
+
+TITLE:The idiosyncratic brain: distortion of spontaneous connectivity patterns in autism spectrum disorder.
+AUTHORS:Hahamy A, Behrmann M, Malach R
+JOURNAL:Nat Neurosci
+YEAR:2015
+URL:http://www.nature.com/neuro/journal/v18/n2/full/nn.3919.html?foxtrotcallback=true&error=cookies_not_supported
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25599222
+ABSTRACT:
+"Autism spectrum disorder (ASD) has been associated with a reduction in resting state functional connectivity, though this assertion has recently been challenged by reports of increased connectivity in ASD. To address these contradictory findings, we examined both inter- and intrahemispheric functional connectivity in several resting state data sets acquired from adults with high-functioning ASD and matched control participants. Our results reveal areas of both increased and decreased connectivity in multiple ASD groups as compared to control groups. We propose that this heterogeneity stems from a previously unrecognized ASD characteristic: idiosyncratic distortions of the functional connectivity pattern relative to the typical, canonical template. The magnitude of an individual's pattern distortion in homotopic interhemispheric connectivity correlated significantly with behavioral symptoms of ASD. We propose that individualized alterations in functional connectivity organization are a core characteristic of high-functioning ASD, and that this may account for previous discrepant findings."
+
+                
+
+TITLE:Developmental changes in large-scale network connectivity in autism.
+AUTHORS:Nomi JS, Uddin LQ
+JOURNAL:Neuroimage Clin
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2213158215000431
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25844325
+ABSTRACT:
+'BACKGROUND: Disrupted cortical connectivity is thought to underlie the complex cognitive and behavior profile observed in individuals with autism spectrum disorder (ASD). Previous neuroimaging research has identified patterns of both functional hypo- and hyper-connectivity in individuals with ASD. A recent theory attempting to reconcile conflicting results in the literature proposes that hyper-connectivity of brain networks may be more characteristic of young children with ASD, while hypo-connectivity may be more prevalent in adolescents and adults with the disorder when compared to typical development (TD) (Uddin etal., 2013). Previous work has examined only young children, mixed groups of children and adolescents, or adult cohorts in separate studies, leaving open the question of developmental influences on functional brain connectivity in ASD.\n\nMETHODS: The current study tests this developmental hypothesis by examining within- and between-network resting state functional connectivity in a large sample of 26 children, 28 adolescents, and 18 adults with ASD and age- and IQ-matchedTD individuals for the first time using an entirely data-driven approach. Independent component analyses (ICA) and dual regression was applied to data from three age cohorts to examine the effects of participant age on patterns of within-networkwhole-brain functional connectivity in individuals with ASD compared with TD individuals. Between-network connectivity differences were examined for each age cohort by comparing correlations between ICA components across groups.\n\nRESULTS: We find that in the youngest cohort (age 11 and under), children with ASD exhibit hyper-connectivity within large-scale brain networks as well as decreased between-network connectivity compared with age-matchedTD children. In contrast, adolescents with ASD (age 11-18) do not differ from TD adolescents in within-network connectivity, yet show decreased between-network connectivity compared with TD adolescents. Adults with ASD show no within- or between-network differences in functional network connectivity compared with neurotypical age-matched individuals.\n\nCONCLUSIONS: Characterizing within- and between-network functional connectivity in age-stratified cohorts of individuals with ASD and TD individuals demonstrates that functional connectivity atypicalities in the disorder are not uniform across the lifespan. These results demonstrate how explicitly characterizing participant age and adopting a developmental perspective can lead to a more nuanced understanding of atypicalities of functional brain connectivity in autism.'
+
+                
+
+TITLE:An unbiased Bayesian approach to functional connectomics implicates social-communication networks in autism.
+AUTHORS:Venkataraman A, Duncan JS, Yang DY, Pelphrey KA
+JOURNAL:Neuroimage Clin
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2213158215000881
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26106561
+ABSTRACT:
+'Resting-state functional magnetic resonance imaging (rsfMRI) studies reveal a complex pattern of hyper- and hypo-connectivity in children with autism spectrum disorder (ASD). Whereas rsfMRI findings tend to implicate the default mode network and subcortical areas in ASD, task fMRI and behavioral experiments point to social dysfunction as a unifying impairment of the disorder. Here, we leverage a novel Bayesian framework for whole-brain functional connectomics that aggregates population differences in connectivity to localize a subset of foci that are most affected by ASD. Our approach is entirely data-driven and does not impose spatial constraints on the region foci or dictate the trajectory of altered functional pathways. We apply our method to data from the openly shared Autism Brain Imaging Data Exchange (ABIDE) and pinpoint two intrinsic functional networks that distinguish ASD patients from typically developing controls. One network involves foci in the right temporal pole, left posterior cingulate cortex, left supramarginal gyrus, and left middle temporal gyrus. Automated decoding of this network by the Neurosynth meta-analytic database suggests high-level concepts of "language" and "comprehension" as the likely functional correlates. The second network consists of the left banks of the superior temporal sulcus, right posterior superior temporal sulcus extending into temporo-parietal junction, and right middle temporal gyrus. Associated functionality of these regions includes "social" and "person". The abnormal pathways emanating from the above foci indicate that ASD patients simultaneously exhibit reduced long-range or inter-hemispheric connectivity and increased short-range or intra-hemispheric connectivity. Our findings reveal new insights into ASD and highlight possible neural mechanisms of the disorder.'
+
+                
+
+TITLE:Variation in functional connectivity along anterior-to-posterior intraparietal sulcus, and relationship with age across late childhood and adolescence.
+AUTHORS:Vinette SA, Bray S
+JOURNAL:Dev Cogn Neurosci
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1878929315000444
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25951196
+ABSTRACT:
+'The intraparietal sulcus (IPS), a region in the dorsal attention network (DAN), has been implicated in multi-sensory attention and working memory. Working memory and attention develop across childhood; changes in functional connectivity within the DAN may relate to this maturation. Previous findings regarding fronto-parietal intrinsic functional connectivity age-effects were mixed. Our study aimed to circumvent limitations of previous work using a large cross-sectional sample, 183 typically developing participants 6.5-20 years, from the Autism Brain Imaging Data Exchange, and seed regions along the anterior-to-posterior axis of the IPS. These seeds, IPS0-4, were entered into functional connectivity models. Group-level models investigated differential connectivity along the IPS and relationships with age. Anterior IPS3/4 exhibited greater connectivity with sensorimotor/pre-motor regions. Posterior IPS0/1 demonstrated greater connectivity with dorsal and ventral visual regions. Positive age-effects were found between IPS3-4 and visual regions. Negative age-effects were found between IPS and superior parietal and medial orbitofrontal cortices. Follow-up region of interest analyses were used to estimate age-effects for DAN and anticorrelated default mode network regions. Results suggest age-effects on IPS functional connectivity are relatively modest, and may differ pre- and across-adolescence. Studying typical age-related connectivity variability within this network may help to understand neurodevelopmental disorders marked by impaired attention.'
+
+                
+
+TITLE:Multicenter mapping of structural network alterations in autism.
+AUTHORS:Valk SL, Di Martino A, Milham MP, Bernhardt BC
+JOURNAL:Hum Brain Mapp
+YEAR:2015
+URL:http://onlinelibrary.wiley.com/doi/10.1002/hbm.22776/abstract;jsessionid=114DB8311EEF53BF914130FE69CDD077.f04t04
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25727858
+ABSTRACT:
+'Autism spectrum disorders (ASD) are a group of neurodevelopmental conditions primarily characterized by abnormalities in social cognition. Abundant previous functional MRI studies have shown atypical activity in networks encompassing medial prefrontal cortex (mPFC) and medial parietal regions corresponding to posterior cingulate cortex and precuneus (PCC/PCU). Conversely, studies assessing structural brain anomalies in ASD have been rather inconsistent. The current work evaluated whether structural changes in ASD can be reliability detected in a large multicenter dataset. Our comprehensive structural MRI framework encompassed cortical thickness mapping and structural covariance analysis based on three independent samples comprising individuals with ASD and controls (n = 220), selected from the Autism Brain Imaging Data Exchange open-access database. Surface-based analysis revealed increased cortical thickness in ASD relative to controls in mPFC and lateral prefrontal cortex. Clusters encompassing mPFC were embedded in altered inter-regional covariance networks, showing decreased covariance in ASD relative to controls primarily to PCC/PCU and inferior parietal regions. Cortical thickness increases and covariance reductions in ASD were consistent, yet of variable effect size, across the different sites evaluated and measurable both in children and adults. Our multisite study shows regional and network-level structural alterations in mPFC in ASD that, possibly, relate to atypical socio-cognitive functions in this condition.'
+
+                
+
+TITLE:Sex differences in cortical volume and gyrification in autism.
+AUTHORS:Schaer M, Kochalka J, Padmanabhan A, Supekar K, Menon V
+JOURNAL:Mol Autism
+YEAR:2015
+URL:https://molecularautism.biomedcentral.com/articles/10.1186/s13229-015-0035-y
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26146534
+ABSTRACT:
+'BACKGROUND: Male predominance is a prominent feature of autism spectrum disorders (ASD), with a reported male to female ratio of 4:1. Because of the overwhelming focus on males, little is known about the neuroanatomical basis of sex differences in ASD. Investigations of sex differences with adequate sample sizes are critical for improving our understanding of the biological mechanisms underlying ASD in females.\n\nMETHODS: We leveraged the open-access autism brain imaging data exchange (ABIDE) dataset to obtain structural brain imaging data from 53 females with ASD, who were matched with equivalent samples of males with ASD, and their typically developing (TD) male and female peers. Brain images were processed with FreeSurfer to assess three key features of local cortical morphometry: volume, thickness, and gyrification. A whole-brain approach was used to identify significant effects of sex, diagnosis, and sex-by-diagnosis interaction, using a stringent threshold of p\u2009<\u20090.01 to control for false positives. Stability and power analyses were conducted to guide future research on sex differences in ASD.\n\nRESULTS: We detected a main effect of sex in the bilateral superior temporal cortex, driven by greater cortical volume in females compared to males in both the ASD and TD groups. Sex-by-diagnosis interaction was detected in the gyrification of the ventromedial/orbitofrontal prefrontal cortex (vmPFC/OFC). Post-hoc analyses revealed that sex-by-diagnosis interaction was driven by reduced vmPFC/OFC gyrification in males with ASD, compared to females with ASD as well as TD males and females. Finally, stability analyses demonstrated a dramatic drop in the likelihood of observing significant clusters as the sample size decreased, suggesting that previous studies have been largely underpowered. For instance, with a sample of 30 females with ASD (total n\u2009=\u2009120), a significant sex-by-diagnosis interaction was only detected in 50\xa0% of the simulated subsamples.\n\nCONCLUSIONS: Our results demonstrate that some features of typical sex differences are preserved in the brain of individuals with ASD, while others are not. Sex differences in ASD are associated with cortical regions involved in language and social function, two domains of deficits in the disorder. Stability analyses provide novel quantitative insights into why smaller samples may have previously failed to detect sex differences.'
+
+                
+
+TITLE:Neuroanatomical Diversity of Corpus Callosum and Brain Volume in Autism: Meta-analysis, Analysis of the Autism Brain Imaging Data Exchange Project, and Simulation.
+AUTHORS:Lefebvre A, Beggiato A, Bourgeron T, Toro R
+JOURNAL:Biol Psychiatry
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0006322315001018
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25850620
+ABSTRACT:
+"BACKGROUND: Patients with autism have been often reported to have a smaller corpus callosum (CC) than control subjects.\n\nMETHODS: We conducted a meta-analysis of the literature, analyzed the CC in 694 subjects of the Autism Brain Imaging Data Exchange project, and performed computer simulations to study the effect of different analysis strategies.\n\nRESULTS: Our meta-analysis suggested a group difference in CC size; however, the studies were heavily underpowered (20% power to detect Cohen's d = .3). In contrast, we did not observe significant differences in the Autism Brain Imaging Data Exchange cohort, despite having achieved 99% power. However, we observed that CC scaled nonlinearly with brain volume (BV): large brains had a proportionally smaller CC. Our simulations showed that because of this nonlinearity, CC normalization could not control for eventual BV differences, but using BV as a covariate in a linear model would. We also observed a weaker correlation of IQ and BV in cases compared with control subjects. Our simulations showed that matching populations by IQ could then induce artifactual BV differences.\n\nCONCLUSIONS: The lack of statistical power in the previous literature prevents us from establishing the reality of the claims of a smaller CC in autism, and our own analyses did not find any. However, the nonlinear relationship between CC and BV and the different correlation between BV and IQ in cases and control subjects may induce artifactual differences. Overall, our results highlight the necessity for open data sharing to provide a more solid ground for the discovery of neuroimaging biomarkers within the context of the wide human neuroanatomical diversity."
+
+                
+
+TITLE:Resting state functional magnetic resonance imaging and neural network classified autism and control.
+AUTHORS:Iidaka T
+JOURNAL:Cortex
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0010945214002640
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25243989
+ABSTRACT:
+'Although the neurodevelopmental and genetic underpinnings of autism spectrum disorder (ASD) have been investigated, the etiology of the disorder has remained elusive, and clinical diagnosis continues to rely on symptom-based criteria. In this study, to classify both control subjects and a large sample of patients with ASD, we used resting state functional magnetic resonance imaging (rs-fMRI) and a neural network. Imaging data from 312 subjects with ASD and 328 subjects with typical development was downloaded from the multi-center research project. Only subjects under 20 years of age were included in this analysis. Correlation matrices computed from rs-fMRI time-series data were entered into a probabilistic neural network (PNN) for classification. The PNN classified the two groups with approximately 90% accuracy (sensitivity = 92%, specificity = 87%). The accuracy of classification did not differ among the institutes, or with respect to experimental and imaging conditions, sex, handedness, or intellectual level. Medication status and degree of head movement did not affect accuracy values. The present study indicates that an intrinsic connectivity matrix produced from rs-fMRI data could yield a possible biomarker of ASD. These results support the view that altered network connectivity within the brain contributes to the neurobiology of ASD.'
+
+                
+
+TITLE:Corpus callosum area and brain volume in autism spectrum disorder: quantitative analysis of structural MRI from the ABIDE database.
+AUTHORS:Kucharsky Hiess R, Alter R, Sojoudi S, Ardekani BA, Kuzniecky R, Pardoe HR
+JOURNAL:J Autism Dev Disord
+YEAR:2015
+URL:https://link.springer.com/article/10.1007%2Fs10803-015-2468-8
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26043845
+ABSTRACT:
+'Reduced corpus callosum area and increased brain volume are two commonly reported findings in autism spectrum disorder (ASD). We investigated these two correlates in ASD and healthy controls using T1-weighted MRI scans from the Autism Brain Imaging Data Exchange (ABIDE). Automated methods were used to segment the corpus callosum and intracranial region. No difference in the corpus callosum area was found between ASD participants and healthy controls (ASD 598.53\xa0±\xa0109\xa0mm(2); control 596.82\xa0±\xa0102\xa0mm(2); p\xa0=\xa00.76). The ASD participants had increased intracranial volume (ASD 1,508,596\xa0±\xa0170,505\xa0mm(3); control 1,482,732\xa0±\xa0150,873.5\xa0mm(3); p\xa0=\xa00.042). No evidence was found for overall ASD differences in the corpus callosum subregions.'
+
+                
+
+TITLE:Autism: reduced connectivity between cortical areas involved in face expression, theory of mind, and the sense of self.
+AUTHORS:Cheng W, Rolls ET, Gu H, Zhang J, Feng J
+JOURNAL:Brain
+YEAR:2015
+URL:https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv051
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25795704
+ABSTRACT:
+"Whole-brain voxel-based unbiased resting state functional connectivity was analysed in 418 subjects with autism and 509 matched typically developing individuals. We identified a key system in the middle temporal gyrus/superior temporal sulcus region that has reduced cortical functional connectivity (and increased with the medial thalamus), which is implicated in face expression processing involved in social behaviour. This system has reduced functional connectivity with the ventromedial prefrontal cortex, which is implicated in emotion and social communication. The middle temporal gyrus system is also implicated in theory of mind processing. We also identified in autism a second key system in the precuneus/superior parietal lobule region with reduced functional connectivity, which is implicated in spatial functions including of oneself, and of the spatial environment. It is proposed that these two types of functionality, face expression-related, and of one's self and the environment, are important components of the computations involved in theory of mind, whether of oneself or of others, and that reduced connectivity within and between these regions may make a major contribution to the symptoms of autism."
+
+                
+
+TITLE:Quantile rank maps: a new tool for understanding individual brain development.
+AUTHORS:Chen H, Kelly C, Castellanos FX, He Y, Zuo XN, Reiss PT
+JOURNAL:Neuroimage
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1053811915000130
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25585020
+ABSTRACT:
+"We propose a novel method for neurodevelopmental brain mapping that displays how an individual's values for a quantity of interest compare with age-specific norms. By estimating smoothly age-varying distributions at a set of brain regions of interest, we derive age-dependent region-wise quantile ranks for a given individual, which can be presented in the form of a brain map. Such quantile rank maps could potentially be used for clinical screening. Bootstrap-based confidence intervals are proposed for the quantile rank estimates. We also propose a recalibrated Kolmogorov-Smirnov test for detecting group differences in the age-varying distribution. This test is shown to be more robust to model misspecification than a linear regression-based test. The proposed methods are applied to brain imaging data from the Nathan Kline Institute Rockland Sample and from the Autism Brain Imaging Data Exchange (ABIDE) sample."
+
+                
+
+TITLE:Diagnostic classification of intrinsic functional connectivity highlights somatosensory, default mode, and visual regions in autism.
+AUTHORS:Chen CP, Keown CL, Jahedi A, Nair A, Pflieger ME, Bailey BA, Müller RA
+JOURNAL:Neuroimage Clin
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2213158215000698
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26106547
+ABSTRACT:
+'Despite consensus on the neurological nature of autism spectrum disorders (ASD), brain biomarkers remain unknown and diagnosis continues to be based on behavioral criteria. Growing evidence suggests that brain abnormalities in ASD occur at the level of interconnected networks; however, previous attempts using functional connectivity data for diagnostic classification have reached only moderate accuracy. We selected 252 low-motion resting-state functional MRI (rs-fMRI) scans from the Autism Brain Imaging Data Exchange (ABIDE) including typically developing (TD) and ASD participants (n\xa0=\xa0126 each), matched for age, non-verbal IQ, and head motion. A matrix of functional connectivities between 220 functionally defined regions of interest was used for diagnostic classification, implementing several machine learning tools. While support vector machines in combination with particle swarm optimization and recursive feature elimination performed modestly (with accuracies for validation datasets <70%), diagnostic classification reached a high accuracy of 91% with random forest (RF), a nonparametric ensemble learning method. Among the 100 most informative features (connectivities), for which this peak accuracy was achieved, participation of somatosensory, default mode, visual, and subcortical regions stood out. Whereas some of these findings were expected, given previous findings of default mode abnormalities and atypical visual functioning in ASD, the prominent role of somatosensory regions was remarkable. The finding of peak accuracy for 100 interregional functional connectivities further suggests that brain biomarkers of ASD may be regionally complex and distributed, rather than localized.'
+
+                
+
+TITLE:Increased Functional Connectivity Between Subcortical and Cortical Resting-State Networks in Autism Spectrum Disorder.
+AUTHORS:Cerliani L, Mennes M, Thomas RM, Di Martino A, Thioux M, Keysers C
+JOURNAL:JAMA Psychiatry
+YEAR:2015
+URL:
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26061743
+ABSTRACT:
+'IMPORTANCE: Individuals with autism spectrum disorder (ASD) exhibit severe difficulties in social interaction, motor coordination, behavioral flexibility, and atypical sensory processing, with considerable interindividual variability. This heterogeneous set of symptoms recently led to investigating the presence of abnormalities in the interaction across large-scale brain networks. To date, studies have focused either on constrained sets of brain regions or whole-brain analysis, rather than focusing on the interaction between brain networks.\n\nOBJECTIVES: To compare the intrinsic functional connectivity between brain networks in a large sample of individuals with ASD and typically developing control subjects and to estimate to what extent group differences would predict autistic traits and reflect different developmental trajectories.\n\nDESIGN, SETTING, AND PARTICIPANTS: We studied 166 male individuals (mean age, 17.6 years; age range, 7-50 years) diagnosed as having DSM-IV-TR autism or Asperger syndrome and 193 typical developing male individuals (mean age, 16.9 years; age range, 6.5-39.4 years) using resting-state functional magnetic resonance imaging (MRI). Participants were matched for age, IQ, head motion, and eye status (open or closed) in the MRI scanner. We analyzed data from the Autism Brain Imaging Data Exchange (ABIDE), an aggregated MRI data set from 17 centers, made public in August 2012.\n\nMAIN OUTCOMES AND MEASURES: We estimated correlations between time courses of brain networks extracted using a data-driven method (independent component analysis). Subsequently, we associated estimates of interaction strength between networks with age and autistic traits indexed by the Social Responsiveness Scale.\n\nRESULTS: Relative to typically developing control participants, individuals with ASD showed increased functional connectivity between primary sensory networks and subcortical networks (thalamus and basal ganglia) (all t\u2009≥\u20093.13, P\u2009<\u2009.001 corrected). The strength of such connections was associated with the severity of autistic traits in the ASD group (all r\u2009≥\u20090.21, P\u2009<\u2009.0067 corrected). In addition, subcortico-cortical interaction decreased with age in the entire sample (all r\u2009≤\u2009-0.09, P\u2009<\u2009.012 corrected), although this association was significant only in typically developing participants (all r\u2009≤\u2009-0.13, P\u2009<\u2009.009 corrected).\n\nCONCLUSIONS AND RELEVANCE: Our results showing ASD-related impairment in the interaction between primary sensory cortices and subcortical regions suggest that the sensory processes they subserve abnormally influence brain information processing in individuals with ASD. This might contribute to the occurrence of hyposensitivity or hypersensitivity and of difficulties in top-down regulation of behavior.'
+
+                
+
+TITLE:Reduced Gyrification Is Related to Reduced Interhemispheric Connectivity in Autism Spectrum Disorders.
+AUTHORS:Bos DJ, Merchán-Naranjo J, Martínez K, Pina-Camacho L, Balsa I, Boada L, Schnack H, Oranje B, Desco M, Arango C, Parellada M, Durston S, Janssen J
+JOURNAL:J Am Acad Child Adolesc Psychiatry
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0890856715003500
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26210336
+ABSTRACT:
+'OBJECTIVE: Autism spectrum disorders (ASD) have been associated with atypical cortical gray and subcortical white matter development. Neurodevelopmental theories postulate that a relation between cortical maturation and structural brain connectivity may exist. We therefore investigated the development of gyrification and white matter connectivity and their relationship in individuals with ASD and their typically developing peers.\n\nMETHOD: T1- and diffusion-weighted images were acquired from a representative sample of 30 children and adolescents with ASD (aged 8-18 years), and 29 typically developing children matched for age, sex, hand preference, and socioeconomic status. The FreeSurfer suite was used to calculate cortical volume, surface area, and gyrification index. Measures of structural connectivity were estimated using probabilistic tractography and tract-based spatial statistics (TBSS).\n\nRESULTS: Left prefrontal and parietal cortex showed a relative, age-dependent decrease in gyrification index in children and adolescents with ASD compared to typically developing controls. This result was replicated in an age-and IQ-matched sample provided by the Autism Brain Imaging Data Exchange (ABIDE) initiative. Furthermore, tractography and TBSS showed a complementary pattern in which left prefrontal gyrification was negatively related to radial diffusivity in the forceps minor in participants with ASD.\n\nCONCLUSION: The present study builds on earlier findings of abnormal gyrification and structural connectivity in the prefrontal cortex in ASD. It provides a more comprehensive neurodevelopmental characterization of ASD, involving interdependent changes in microstructural white and cortical gray matter. The findings of related abnormal patterns of gyrification and white matter connectivity support the notion of the intertwined development of 2 major morphometric domains in ASD.'
+
+                
+
+TITLE:Examination of Local Functional Homogeneity in Autism.
+AUTHORS:Jiang L, Hou XH, Yang N, Yang Z, Zuo XN
+JOURNAL:Biomed Res Int
+YEAR:2015
+URL:https://www.hindawi.com/journals/bmri/2015/174371/
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26180782
+ABSTRACT:
+'Increasing neuroimaging evidence suggests that autism patients exhibit abnormal brain structure and function. We used the Autism Brain Imaging Data Exchange (ABIDE) sample to analyze locally focal (~8 mm) functional connectivity of 223 autism patients and 285 normal controls from 15 international sites using a recently developed surface-based approach. We observed enhanced local connectivity in the middle frontal cortex, left precuneus, and right superior temporal sulcus, and reduced local connectivity in the right insular cortex. The local connectivity in the right middle frontal gyrus was positively correlated with the total score of the autism diagnostic observation schedule whereas the local connectivity within the right superior temporal sulcus was positively correlated with total subscores of both the communication and the stereotyped behaviors and restricted interests of the schedule. Finally, significant interactions between age and clinical diagnosis were detected in the left precuneus. These findings replicated previous observations that used a volume-based approach and suggested possible neuropathological impairments of local information processing in the frontal, temporal, parietal, and insular cortices. Novel site-variability analysis demonstrated high reproducibility of our findings across the 15 international sites. The age-disease interaction provides a potential target region for future studies to further elucidate the neurodevelopmental mechanisms of autism.'
+
+                
+
+TITLE:Age-related changes in intrinsic function of the superior temporal sulcus in autism spectrum disorders.
+AUTHORS:Alaerts K, Nayar K, Kelly C, Raithel J, Milham MP, Di Martino A
+JOURNAL:Soc Cogn Affect Neurosci
+YEAR:2015
+URL:https://academic.oup.com/scan/article-lookup/doi/10.1093/scan/nsv029
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25809403
+ABSTRACT:
+'Currently, the developmental trajectories of neural circuits implicated in autism spectrum disorders (ASD) are largely unknown. Here, we specifically focused on age-related changes in the functional circuitry of the posterior superior temporal sulcus (pSTS), a key hub underlying social-cognitive processes known to be impaired in ASD. Using a cross-sectional approach, we analysed resting-state functional magnetic resonance imaging (fMRI) data collected from children, adolescents and adults available through the autism brain imaging data exchange repository [n = 106 with ASD and n = 109 typical controls (TC), ages 7-30 years]. The observed age-related changes of pSTS intrinsic functional connectivity (iFC) suggest that no single developmental pattern characterizes ASD. Instead, pSTS circuitry displayed a complex developmental picture, with some functional circuits showing patterns consistent with atypical development in ASD relative to TC (pSTS-iFC with fusiform gyrus and angular gyrus) and others showing delayed maturation (pSTS-iFC with regions of the action perception network). Distinct developmental trajectories in different functional circuits in ASD likely reflect differential age-related changes in the socio-cognitive processes they underlie. Increasing insight on these mechanisms is a critical step in the development of age-specific interventions in ASD.'
+
+                
+
+TITLE:An empirical Bayes normalization method for connectivity metrics in resting state fMRI.
+AUTHORS:Chen S, Kang J, Wang G
+JOURNAL:Front Neurosci
+YEAR:2015
+URL:http://journal.frontiersin.org/article/10.3389/fnins.2015.00316/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26441493
+ABSTRACT:
+'Functional connectivity analysis using resting-state functional magnetic resonance imaging (rs-fMRI) has emerged as a powerful technique for investigating functional brain networks. The functional connectivity is often quantified by statistical metrics (e.g., Pearson correlation coefficient), which may be affected by many image acquisition and preprocessing steps such as the head motion correction and the global signal regression. The appropriate quantification of the connectivity metrics is essential for meaningful and reproducible scientific findings. We propose a novel empirical Bayes method to normalize the functional brain connectivity metrics on a posterior probability scale. Moreover, the normalization function maps the original connectivity metrics to values between zero and one, which is well-suited for the graph theory based network analysis and avoids the information loss due to the (negative value) hard thresholding step. We apply the normalization method to a simulation study and the simulation results show that our normalization method effectively improves the robustness and reliability of the quantification of brain functional connectivity and provides more powerful group difference (biomarkers) detection. We illustrate our method on an analysis of a rs-fMRI dataset from the Autism Brain Imaging Data Exchange (ABIDE) study.'
+
+                
+
+TITLE:Functional connectivity classification of autism identifies highly predictive brain features but falls short of biomarker standards.
+AUTHORS:Plitt M, Barnes KA, Martin A
+JOURNAL:Neuroimage Clin
+YEAR:2015
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2213158214001983
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25685703
+ABSTRACT:
+"OBJECTIVES: Autism spectrum disorders (ASD) are diagnosed based on early-manifesting clinical symptoms, including markedly impaired social communication. We assessed the viability of resting-state functional MRI (rs-fMRI) connectivity measures as diagnostic biomarkers for ASD and investigated which connectivity features are predictive of a diagnosis.\n\nMETHODS: Rs-fMRI scans from 59 high functioning males with ASD and 59 age- and IQ-matched typically developing (TD) males were used to build a series of machine learning classifiers. Classification features were obtained using 3 sets of brain regions. Another set of classifiers was built from participants' scores on behavioral metrics. An additional age and IQ-matched cohort of 178 individuals (89 ASD; 89 TD) from the Autism Brain Imaging Data Exchange (ABIDE) open-access dataset (http://fcon_1000.projects.nitrc.org/indi/abide/) were included for replication.\n\nRESULTS: High classification accuracy was achieved through several rs-fMRI methods (peak accuracy 76.67%). However, classification via behavioral measures consistently surpassed rs-fMRI classifiers (peak accuracy 95.19%). The class probability estimates, P(ASD|fMRI data), from brain-based classifiers significantly correlated with scores on a measure of social functioning, the Social Responsiveness Scale (SRS), as did the most informative features from 2 of the 3 sets of brain-based features. The most informative connections predominantly originated from regions strongly associated with social functioning.\n\nCONCLUSIONS: While individuals can be classified as having ASD with statistically significant accuracy from their rs-fMRI scans alone, this method falls short of biomarker standards. Classification methods provided further evidence that ASD functional connectivity is characterized by dysfunction of large-scale functional networks, particularly those involved in social information processing."
+
+                
+
+TITLE:Voxel-wise motion artifacts in population-level whole-brain connectivity analysis of resting-state FMRI.
+AUTHORS:Spisák T, Jakab A, Kis SA, Opposits G, Aranyi C, Berényi E, Emri M
+JOURNAL:PLoS One
+YEAR:2014
+URL:http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104947
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25188284
+ABSTRACT:
+'Functional Magnetic Resonance Imaging (fMRI) based brain connectivity analysis maps the functional networks of the brain by estimating the degree of synchronous neuronal activity between brain regions. Recent studies have demonstrated that "resting-state" fMRI-based brain connectivity conclusions may be erroneous when motion artifacts have a differential effect on fMRI BOLD signals for between group comparisons. A potential explanation could be that in-scanner displacement, due to rotational components, is not spatially constant in the whole brain. However, this localized nature of motion artifacts is poorly understood and is rarely considered in brain connectivity studies. In this study, we initially demonstrate the local correspondence between head displacement and the changes in the resting-state fMRI BOLD signal. Than, we investigate how connectivity strength is affected by the population-level variation in the spatial pattern of regional displacement. We introduce Regional Displacement Interaction (RDI), a new covariate parameter set for second-level connectivity analysis and demonstrate its effectiveness in reducing motion related confounds in comparisons of groups with different voxel-vise displacement pattern and preprocessed using various nuisance regression methods. The effect of using RDI as second-level covariate is than demonstrated in autism-related group comparisons. The relationship between the proposed method and some of the prevailing subject-level nuisance regression techniques is evaluated. Our results show that, depending on experimental design, treating in-scanner head motion as a global confound may not be appropriate. The degree of displacement is highly variable among various brain regions, both within and between subjects. These regional differences bias correlation-based measures of brain connectivity. The inclusion of the proposed second-level covariate into the analysis successfully reduces artifactual motion-related group differences and preserves real neuronal differences, as demonstrated by the autism-related comparisons.'
+
+                
+
+TITLE:Structural and functional connectivity of the human brain in autism spectrum disorders and attention-deficit/hyperactivity disorder: A rich club-organization study.
+AUTHORS:Ray S, Miller M, Karalunas S, Robertson C, Grayson DS, Cary RP, Hawkey E, Painter JG, Kriz D, Fombonne E, Nigg JT, Fair DA
+JOURNAL:Hum Brain Mapp
+YEAR:2014
+URL:http://onlinelibrary.wiley.com/doi/10.1002/hbm.22603/abstract;jsessionid=1DF71424A2599F02FFB3CFDC198B696D.f01t04
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25116862
+ABSTRACT:
+'Attention-deficit/hyperactive disorder (ADHD) and autism spectrum disorders (ASD) are two of the most common and vexing neurodevelopmental disorders among children. Although the two disorders share many behavioral and neuropsychological characteristics, most MRI studies examine only one of the disorders at a time. Using graph theory combined with structural and functional connectivity, we examined the large-scale network organization among three groups of children: a group with ADHD (8-12 years, n = 20), a group with ASD (7-13 years, n = 16), and typically developing controls (TD) (8-12 years, n = 20). We apply the concept of the rich-club organization, whereby central, highly connected hub regions are also highly connected to themselves. We examine the brain into two different network domains: (1) inside a rich-club network phenomena and (2) outside a rich-club network phenomena. The ASD and ADHD groups had markedly different patterns of rich club and non rich-club connections in both functional and structural data. The ASD group exhibited higher connectivity in structural and functional networks but only inside the rich-club networks. These findings were replicated using the autism brain imaging data exchange dataset with ASD (n = 85) and TD (n = 101). The ADHD group exhibited a lower generalized fractional anisotropy and functional connectivity inside the rich-club networks, but a higher number of axonal fibers and correlation coefficient values outside the rich club. Despite some shared biological features and frequent comorbity, these data suggest ADHD and ASD exhibit distinct large-scale connectivity patterns in middle childhood.'
+
+                
+
+TITLE:Abnormal lateralization of functional connectivity between language and default mode regions in autism.
+AUTHORS:Nielsen JA, Zielinski BA, Fletcher PT, Alexander AL, Lange N, Bigler ED, Lainhart JE, Anderson JS
+JOURNAL:Mol Autism
+YEAR:2014
+URL:https://molecularautism.biomedcentral.com/articles/10.1186/2040-2392-5-8
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24502324
+ABSTRACT:
+'BACKGROUND: Lateralization of brain structure and function occurs in typical development, and abnormal lateralization is present in various neuropsychiatric disorders. Autism is characterized by a lack of left lateralization in structure and function of regions involved in language, such as Broca and Wernicke areas.\n\nMETHODS: Using functional connectivity magnetic resonance imaging from a large publicly available sample (n\u2009=\u2009964), we tested whether abnormal functional lateralization in autism exists preferentially in language regions or in a more diffuse pattern across networks of lateralized brain regions.\n\nRESULTS: The autism group exhibited significantly reduced left lateralization in a few connections involving language regions and regions from the default mode network, but results were not significant throughout left- and right-lateralized networks. There is a trend that suggests the lack of left lateralization in a connection involving Wernicke area and the posterior cingulate cortex associates with more severe autism.\n\nCONCLUSIONS: Abnormal language lateralization in autism may be due to abnormal language development rather than to a deficit in hemispheric specialization of the entire brain.'
+
+                
+
+TITLE:Precentral gyrus functional connectivity signatures of autism.
+AUTHORS:Nebel MB, Eloyan A, Barber AD, Mostofsky SH
+JOURNAL:Front Syst Neurosci
+YEAR:2014
+URL:http://journal.frontiersin.org/article/10.3389/fnsys.2014.00080/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24860442
+ABSTRACT:
+'Motor impairments are prevalent in children with autism spectrum disorders (ASD) and are perhaps the earliest symptoms to develop. In addition, motor skills relate to the communicative/social deficits at the core of ASD diagnosis, and these behavioral deficits may reflect abnormal connectivity within brain networks underlying motor control and learning. Despite the fact that motor abnormalities in ASD are well-characterized, there remains a fundamental disconnect between the complexity of the clinical presentation of ASD and the underlying neurobiological mechanisms. In this study, we examined connectivity within and between functional subregions of a key component of the motor control network, the precentral gyrus, using resting state functional Magnetic Resonance Imaging data collected from a large, heterogeneous sample of individuals with ASD as well as neurotypical controls. We found that the strength of connectivity within and between distinct functional subregions of the precentral gyrus was related to ASD diagnosis and to the severity of ASD traits. In particular, connectivity involving the dorsomedial (lower limb/trunk) subregion was abnormal in ASD individuals as predicted by models using a dichotomous variable coding for the presence of ASD, as well as models using symptom severity ratings. These findings provide further support for a link between motor and social/communicative abilities in ASD.'
+
+                
+
+TITLE:Analysis of cortical and sub-cortical regions in autistic mr images using level set method and structure tensors.
+AUTHORS:Fredo RJ, Kavitha G, Ramakrishnan S
+JOURNAL:Biomed Sci Instrum
+YEAR:2014
+URL:
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25405416
+ABSTRACT:
+'Autism is a complex disease that causes micro structural changes in brain due to delayed growth. In this work, the cortical regions of brain are extracted from T1 -weighted magnetic resonance mid-sagittal view slices. The images are skull stripped using edge based Level Set (LS) which is regularized by a signed distance function. This skull stripping technique is validated with the Brain extraction tool (BET). The extracted cortical regions are then analyzed by calculating the structure tensor matrix from the gradient of the skull stripped images. The anisotropy index derived from the tensor matrix is correlated with the clinical features such as verbal, full scale and performance Intelligent Quotients (IQ). The results show that the level set method is able to extract the cortical brain boundaries correctly with distinct edges. The structure tensor features extracted from the skull stripped images discriminates the control and autistic images. Also, the anisotropy index is negatively correlated with the performance IQ values of autistic subjects.'
+
+                
+
+TITLE:Multiparametric MRI characterization and prediction in autism spectrum disorder using graph theory and machine learning.
+AUTHORS:Zhou Y, Yu F, Duong T
+JOURNAL:PLoS One
+YEAR:2014
+URL:http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090405
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24922325
+ABSTRACT:
+'This study employed graph theory and machine learning analysis of multiparametric MRI data to improve characterization and prediction in autism spectrum disorders (ASD). Data from 127 children with ASD (13.5±6.0 years) and 153 age- and gender-matched typically developing children (14.5±5.7 years) were selected from the multi-center Functional Connectome Project. Regional gray matter volume and cortical thickness increased, whereas white matter volume decreased in ASD compared to controls. Small-world network analysis of quantitative MRI data demonstrated decreased global efficiency based on gray matter cortical thickness but not with functional connectivity MRI (fcMRI) or volumetry. An integrative model of 22 quantitative imaging features was used for classification and prediction of phenotypic features that included the autism diagnostic observation schedule, the revised autism diagnostic interview, and intelligence quotient scores. Among the 22 imaging features, four (caudate volume, caudate-cortical functional connectivity and inferior frontal gyrus functional connectivity) were found to be highly informative, markedly improving classification and prediction accuracy when compared with the single imaging features. This approach could potentially serve as a biomarker in prognosis, diagnosis, and monitoring disease progression.'
+
+                
+
+TITLE:Underconnectivity of the superior temporal sulcus predicts emotion recognition deficits in autism.
+AUTHORS:Alaerts K, Woolley DG, Steyaert J, Di Martino A, Swinnen SP, Wenderoth N
+JOURNAL:Soc Cogn Affect Neurosci
+YEAR:2014
+URL:https://academic.oup.com/scan/article-lookup/doi/10.1093/scan/nst156
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24078018
+ABSTRACT:
+'Neurodevelopmental disconnections have been assumed to cause behavioral alterations in autism spectrum disorders (ASDs). Here, we combined measurements of intrinsic functional connectivity (iFC) from resting-state functional magnetic resonance imaging (fMRI) with task-based fMRI to explore whether altered activity and/or iFC of the right posterior superior temporal sulcus (pSTS) mediates deficits in emotion recognition in ASD. Fifteen adults with ASD and 15 matched-controls underwent resting-state and task-based fMRI, during which participants discriminated emotional states from point light displays (PLDs). Intrinsic FC of the right pSTS was further examined using 584 (278 ASD/306 controls) resting-state data of the Autism Brain Imaging Data Exchange (ABIDE). Participants with ASD were less accurate than controls in recognizing emotional states from PLDs. Analyses revealed pronounced ASD-related reductions both in task-based activity and resting-state iFC of the right pSTS with fronto-parietal areas typically encompassing the action observation network (AON). Notably, pSTS-hypo-activity was related to pSTS-hypo-connectivity, and both measures were predictive of emotion recognition performance with each measure explaining a unique part of the variance. Analyses with the large independent ABIDE dataset replicated reductions in pSTS-iFC to fronto-parietal regions. These findings provide novel evidence that pSTS hypo-activity and hypo-connectivity with the fronto-parietal AON are linked to the social deficits characteristic of ASD.'
+
+                
+
+TITLE:Multisite functional connectivity MRI classification of autism: ABIDE results.
+AUTHORS:Nielsen JA, Zielinski BA, Fletcher PT, Alexander AL, Lange N, Bigler ED, Lainhart JE, Anderson JS
+JOURNAL:Front Hum Neurosci
+YEAR:2013
+URL:http://journal.frontiersin.org/article/10.3389/fnhum.2013.00599/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24093016
+ABSTRACT:
+'BACKGROUND: Systematic differences in functional connectivity MRI metrics have been consistently observed in autism, with predominantly decreased cortico-cortical connectivity. Previous attempts at single subject classification in high-functioning autism using whole brain point-to-point functional connectivity have yielded about 80% accurate classification of autism vs. control subjects across a wide age range. We attempted to replicate the method and results using the Autism Brain Imaging Data Exchange (ABIDE) including resting state fMRI data obtained from 964 subjects and 16 separate international sites.\n\nMETHODS: For each of 964 subjects, we obtained pairwise functional connectivity measurements from a lattice of 7266 regions of interest covering the gray matter (26.4 million "connections") after preprocessing that included motion and slice timing correction, coregistration to an anatomic image, normalization to standard space, and voxelwise removal by regression of motion parameters, soft tissue, CSF, and white matter signals. Connections were grouped into multiple bins, and a leave-one-out classifier was evaluated on connections comprising each set of bins. Age, age-squared, gender, handedness, and site were included as covariates for the classifier.\n\nRESULTS: Classification accuracy significantly outperformed chance but was much lower for multisite prediction than for previous single site results. As high as 60% accuracy was obtained for whole brain classification, with the best accuracy from connections involving regions of the default mode network, parahippocampaland fusiform gyri, insula, Wernicke Area, and intraparietal sulcus. The classifier score was related to symptom severity, social function, daily living skills, and verbal IQ. Classification accuracy was significantly higher for sites with longer BOLD imaging times.\n\nCONCLUSIONS: Multisite functional connectivity classification of autism outperformed chance using a simple leave-one-out classifier, but exhibited poorer accuracy than for single site results. Attempts to use multisite classifiers will likely require improved classification algorithms, longer BOLD imaging times, and standardized acquisition parameters for possible future clinical utility.'
+
+                
+
+TITLE:Abnormal brain synchrony in Down Syndrome.
+AUTHORS:Anderson JS, Nielsen JA, Ferguson MA, Burback MC, Cox ET, Dai L, Gerig G, Edgin JO, Korenberg JR
+JOURNAL:Neuroimage Clin
+YEAR:2013
+URL:http://linkinghub.elsevier.com/retrieve/pii/S2213158213000624
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24179822
+ABSTRACT:
+'Down Syndrome is the most common genetic cause for intellectual disability, yet the pathophysiology of cognitive impairment in Down Syndrome is unknown. We compared fMRI scans of 15 individuals with Down Syndrome to 14 typically developing control subjects while they viewed 50\xa0min of cartoon video clips. There was widespread increased synchrony between brain regions, with only a small subset of strong, distant connections showing underconnectivity in Down Syndrome. Brain regions showing negative correlations were less anticorrelated and were among the most strongly affected connections in the brain. Increased correlation was observed between all of the distributed brain networks studied, with the strongest internetwork correlation in subjects with the lowest performance IQ. A functional parcellation of the brain showed simplified network structure in Down Syndrome organized by local connectivity. Despite increased interregional synchrony, intersubject correlation to the cartoon stimuli was lower in Down Syndrome, indicating that increased synchrony had a temporal pattern that was not in response to environmental stimuli, but idiosyncratic to each Down Syndrome subject. Short-range, increased synchrony was not observed in a comparison sample of 447 autism vs. 517 control subjects from the Autism Brain Imaging Exchange (ABIDE) collection of resting state fMRI data, and increased internetwork synchrony was only observed between the default mode and attentional networks in autism. These findings suggest immature development of connectivity in Down Syndrome with impaired ability to integrate information from distant brain regions into coherent distributed networks.'
+
+                
+
+TITLE:Neuroimaging data sharing on the neuroinformatics database platform.
+AUTHORS:Book GA, Stevens MC, Assaf M, Glahn DC, Pearlson GD
+JOURNAL:Neuroimage
+YEAR:2016
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1053811915003122
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25888923
+ABSTRACT:
+'We describe the Neuroinformatics Database (NiDB), an open-source database platform for archiving, analysis, and sharing of neuroimaging data. Data from the multi-site projects Autism Brain Imaging Data Exchange (ABIDE), Bipolar-Schizophrenia Network on Intermediate Phenotypes parts one and two (B-SNIP1, B-SNIP2), and Monetary Incentive Delay task (MID) are available for download from the public instance of NiDB, with more projects sharing data as it becomes available. As demonstrated by making several large datasets available, NiDB is an extensible platform appropriately suited to archive and distribute shared neuroimaging data.'
+
+                
+
+TITLE:Connectivity in Autism: A Review of MRI Connectivity Studies.
+AUTHORS:Rane P, Cochran D, Hodge SM, Haselgrove C, Kennedy DN, Frazier JA
+JOURNAL:Harv Rev Psychiatry
+YEAR:None
+URL:http://pt.wkhealth.com/pt/re/lwwgateway/landingpage.htm;jsessionid=ZT3FGj0Qw82s1SR3kHL2Vph0Dz0fKdvmgKx85znf2SHmrLlTYKQ7!721960586!181195628!8091!-1?sid=WKPTLP:landingpage&an=00023727-201507000-00001
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/26146755
+ABSTRACT:
+"Autism spectrum disorder (ASD) affects 1 in 50 children between the ages of 6 and 17 years. The etiology of ASD is not precisely known. ASD is an umbrella term, which includes both low- (IQ < 70) and high-functioning (IQ > 70) individuals. A better understanding of the disorder and how it manifests in individual subjects can lead to more effective intervention plans to fulfill the individual's treatment needs.Magnetic resonance imaging (MRI) is a non-invasive investigational tool that can be used to study the ways in which the brain develops or deviates from the typical developmental trajectory. MRI offers insights into the structure, function, and metabolism of the brain. In this article, we review published studies on brain connectivity changes in ASD using either resting state functional MRI or diffusion tensor imaging.The general findings of decreases in white matter integrity and in long-range neural coherence are well known in the ASD literature. Nevertheless, the detailed localization of these findings remains uncertain, and few studies link these changes in connectivity with the behavioral phenotype of the disorder. With the help of data sharing and large-scale analytic efforts, however, the field is advancing toward several convergent themes, including the reduced functional coherence of long-range intra-hemispheric cortico-cortical default mode circuitry, impaired inter-hemispheric regulation, and an associated, perhaps compensatory, increase in local and short-range cortico-subcortical coherence."
+
+                
+
+TITLE:Brain imaging research in autism spectrum disorders: in search of neuropathology and health across the lifespan.
+AUTHORS:Lainhart JE
+JOURNAL:Curr Opin Psychiatry
+YEAR:2015
+URL:http://pt.wkhealth.com/pt/re/lwwgateway/landingpage.htm;jsessionid=ZT3L2b7GY48Tym8gsVhbc59Q8nbggjLdpcghMrn9TB3nXnZ9q6DS!721960586!181195628!8091!-1?sid=WKPTLP:landingpage&an=00001504-900000000-99501
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25602243
+ABSTRACT:
+'PURPOSE OF REVIEW: Advances in brain imaging research in autism spectrum disorders (ASD) are rapidly occurring, and the amount of neuroimaging research has dramatically increased over the past 5 years. In this review, advances during the past 12 months and longitudinal studies are highlighted.\n\nRECENT FINDINGS: Cross-sectional neuroimaging research provides evidence that the neural underpinnings of the behavioral signs of ASD involve not only dysfunctional integration of information across distributed brain networks but also basic dysfunction in primary cortices.Longitudinal studies of ASD show abnormally enlarged brain volumes and increased rates of brain growth during early childhood in only a small minority of ASD children. There is evidence of disordered development of white matter microstructure and amygdala growth, and at 2 years of age, network inefficiencies in posterior cerebral regions.From older childhood into adulthood, atypical age-variant and age-invariant changes in the trajectories of total and regional brain volumes and cortical thickness are apparent at the group level.\n\nSUMMARY: There is evidence of abnormalities in posterior lobes and posterior brain networks during the first 2 years of life in ASD and, even in older children and adults, dysfunction in primary cortical areas.'
+
+                
+
+TITLE:Traumatic brain injury imaging research roadmap.
+AUTHORS:Wintermark M, Coombs L, Druzgal TJ, Field AS, Filippi CG, Hicks R, Horton R, Lui YW, Law M, Mukherjee P, Norbash A, Riedy G, Sanelli PC, Stone JR, Sze G, Tilkin M, Whitlow CT, Wilde EA, York G, Provenzale JM, American College of Radiology Head Injury Institute.
+JOURNAL:AJNR Am J Neuroradiol
+YEAR:2015
+URL:http://www.ajnr.org/content/36/3/E12
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25655872
+ABSTRACT:
+'The past decade has seen impressive advances in the types of neuroimaging information that can be acquired in patients with traumatic brain injury. However, despite this increase in information, understanding of the contribution of this information to prognostic accuracy and treatment pathways for patients is limited. Available techniques often allow us to infer the presence of microscopic changes indicative of alterations in physiology and function in brain tissue. However, because histologic confirmation is typically lacking, conclusions reached by using these techniques remain solely inferential in almost all cases. Hence, a need exists for validation of these techniques by using data from large population samples that are obtained in a uniform manner, analyzed according to well-accepted procedures, and correlated with closely monitored clinical outcomes. At present, many of these approaches remain confined to population-based research rather than diagnosis at an individual level, particularly with regard to traumatic brain injury that is mild or moderate in degree. A need and a priority exist for patient-centered tools that will allow advanced neuroimaging tools to be brought into clinical settings. One barrier to developing these tools is a lack of an age-, sex-, and comorbidities-stratified, sequence-specific, reference imaging data base that could provide a clear understanding of normal variations across populations. Such a data base would provide researchers and clinicians with the information necessary to develop computational tools for the patient-based interpretation of advanced neuroimaging studies in the clinical setting. The recent "Joint ASNR-ACR HII-ASFNR TBI Workshop: Bringing Advanced Neuroimaging for Traumatic Brain Injury into the Clinic" on May 23, 2014, in Montreal, Quebec, Canada, brought together neuroradiologists, neurologists, psychiatrists, neuropsychologists, neuroimaging scientists, members of the National Institute of Neurologic Disorders and Stroke, industry representatives, and other traumatic brain injury stakeholders to attempt to reach consensus on issues related to and develop consensus recommendations in terms of creating both a well-characterized normative data base of comprehensive imaging and ancillary data to serve as a reference for tools that will allow interpretation of advanced neuroimaging tests at an individual level of a patient with traumatic brain injury. The workshop involved discussions concerning the following: 1) designation of the policies and infrastructure needed for a normative data base, 2) principles for characterizing normal control subjects, and 3) standardizing research neuroimaging protocols for traumatic brain injury. The present article summarizes these recommendations and examines practical steps to achieve them.'
+
+                
+
+TITLE:The implications of brain connectivity in the neuropsychology of autism.
+AUTHORS:Maximo JO, Cadena EJ, Kana RK
+JOURNAL:Neuropsychol Rev
+YEAR:2014
+URL:https://link.springer.com/article/10.1007%2Fs11065-014-9250-0
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24496901
+ABSTRACT:
+'Autism is a neurodevelopmental disorder that has been associated with atypical brain functioning. Functional connectivity MRI (fcMRI) studies examining neural networks in autism have seen an exponential rise over the last decade. Such investigations have led to the characterization of autism as a distributed neural systems disorder. Studies have found widespread cortical underconnectivity, local overconnectivity, and mixed results suggesting disrupted brain connectivity as a potential neural signature of autism. In this review, we summarize the findings of previous fcMRI studies in autism with a detailed examination of their methodology, in order to better understand its potential and to delineate the pitfalls. We also address how a multimodal neuroimaging approach (incorporating different measures of brain connectivity) may help characterize the complex neurobiology of autism at a global level. Finally, we also address the potential of neuroimaging-based markers in assisting neuropsychological assessment of autism. The quest for a neural marker for autism is still ongoing, yet new findings suggest that aberrant brain connectivity may be a promising candidate.'
+
+                
+
+TITLE:Unraveling the miswired connectome: a developmental perspective.
+AUTHORS:Di Martino A, Fair DA, Kelly C, Satterthwaite TD, Castellanos FX, Thomason ME, Craddock RC, Luna B, Leventhal BL, Zuo XN, Milham MP
+JOURNAL:Neuron
+YEAR:2014
+URL:http://linkinghub.elsevier.com/retrieve/pii/S0896627314007806
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25233316
+ABSTRACT:
+'The vast majority of mental illnesses can be conceptualized as developmental disorders of neural interactions within the connectome, or developmental miswiring. The recent maturation of pediatric in vivo brain imaging is bringing the identification of clinically meaningful brain-based biomarkers of developmental disorders within reach. Even more auspicious is the ability to study the evolving connectome throughout life, beginning in utero, which promises to move the field from topological phenomenology to etiological nosology. Here, we scope advances in pediatric imaging of the brain connectome as the field faces the challenge of unraveling developmental miswiring. We highlight promises while also providing a pragmatic review of the many obstacles ahead that must be overcome to significantly impact public health.'
+
+                
+
+TITLE:Brain connectivity in autism.
+AUTHORS:Kana RK, Uddin LQ, Kenet T, Chugani D, Müller RA
+JOURNAL:Front Hum Neurosci
+YEAR:2014
+URL:http://journal.frontiersin.org/article/10.3389/fnhum.2014.00349/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/24917800
+ABSTRACT:
+''
+
+                
+
+TITLE:The rise of large-scale imaging studies in psychiatry.
+AUTHORS:Turner JA
+JOURNAL:Gigascience
+YEAR:2014
+URL:https://academic.oup.com/gigascience/article-lookup/doi/10.1186/2047-217X-3-29
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/25793106
+ABSTRACT:
+'From the initial arguments over whether 12 to 20 subjects were sufficient for an fMRI study, sample sizes in psychiatric neuroimaging studies have expanded into the tens of thousands. These large-scale imaging studies fall into several categories, each of which has specific advantages and challenges. The different study types can be grouped based on their level of control: meta-analyses, at one extreme of the spectrum, control nothing about the imaging protocol or subject selection criteria in the datasets they include, On the other hand, planned multi-site mega studies pour intense efforts into strictly having the same protocols. However, there are several other combinations possible, each of which is best used to address certain questions. The growing investment of all these studies is delivering on the promises of neuroimaging for psychiatry, and holds incredible potential for impact at the level of the individual patient. However, to realize this potential requires both standardized data-sharing efforts, so that there is more staying power in the datasets for re-use and new applications, as well as training the next generation of neuropsychiatric researchers in "Big Data" techniques in addition to traditional experimental methods. The increased access to thousands of datasets along with the needed informatics demands a new emphasis on integrative scientific methods.'
+
+                
+
+TITLE:Reconceptualizing functional brain connectivity in autism from a developmental perspective.
+AUTHORS:Uddin LQ, Supekar K, Menon V
+JOURNAL:Front Hum Neurosci
+YEAR:2013
+URL:http://journal.frontiersin.org/article/10.3389/fnhum.2013.00458/full
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/23966925
+ABSTRACT:
+'While there is almost universal agreement amongst researchers that autism is associated with alterations in brain connectivity, the precise nature of these alterations continues to be debated. Theoretical and empirical work is beginning to reveal that autism is associated with a complex functional phenotype characterized by both hypo- and hyper-connectivity of large-scale brain systems. It is not yet understood why such conflicting patterns of brain connectivity are observed across different studies, and the factors contributing to these heterogeneous findings have not been identified. Developmental changes in functional connectivity have received inadequate attention to date. We propose that discrepancies between findings of autism related hypo-connectivity and hyper-connectivity might be reconciled by taking developmental changes into account. We review neuroimaging studies of autism, with an emphasis on functional magnetic resonance imaging studies of intrinsic functional connectivity in children, adolescents and adults. The consistent pattern emerging across several studies is that while intrinsic functional connectivity in adolescents and adults with autism is generally reduced compared with age-matched controls, functional connectivity in younger children with the disorder appears to be increased. We suggest that by placing recent empirical findings within a developmental framework, and explicitly characterizing age and pubertal stage in future work, it may be possible to resolve conflicting findings of hypo- and hyper-connectivity in the extant literature and arrive at a more comprehensive understanding of the neurobiology of autism.'
+
+                
+
+TITLE:Making data sharing work: the FCP/INDI experience.
+AUTHORS:Mennes M, Biswal BB, Castellanos FX, Milham MP
+JOURNAL:Neuroimage
+YEAR:2013
+URL:http://linkinghub.elsevier.com/retrieve/pii/S1053811912010671
+PUBMED:http://www.ncbi.nlm.nih.gov/pubmed/23123682
+ABSTRACT:
+'Over a decade ago, the fMRI Data Center (fMRIDC) pioneered open-access data sharing in the task-based functional neuroimaging community. Well ahead of its time, the fMRIDC effort encountered logistical, sociocultural and funding barriers that impeded the field-wise instantiation of open-access data sharing. In 2009, ambitions for open-access data sharing were revived in the resting state functional MRI community in the form of two grassroots initiatives: the 1000 Functional Connectomes Project (FCP) and its successor, the International Neuroimaging Datasharing Initiative (INDI). Beyond providing open access to thousands of clinical and non-clinical imaging datasets, the FCP and INDI have demonstrated the feasibility of large-scale data aggregation for hypothesis generation and testing. Yet, the success of the FCP and INDI should not be confused with widespread embracement of open-access data sharing. Reminiscent of the challenges faced by fMRIDC, key controversies persist and include participant privacy, the role of informatics, and the logistical and cultural challenges of establishing an open science ethos. We discuss the FCP and INDI in the context of these challenges, highlighting the promise of current initiatives and suggesting solutions for possible pitfalls.'
+
+                
