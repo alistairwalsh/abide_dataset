@@ -1,4 +1,25 @@
-abide_dataset
+# abide_dataset
+
+Sample Size
+Total: N = 59 (age range 18-31 years)
+
+Autism Spectrum Disorders (ASD): n = 24 (18-31 years)
+Typical Controls (TC): n = 35 (18-31 years)
+
+### ABIDEII-ONRC\_2_part1
+28675  28676  28677  28678  28679  28680  28684  28685  28686  28688  28689  28690  28691  28692  28693
+### ABIDEII-ONRC\_2_part2
+28694  28695  28696  28697  28698  28699  28700  28701  28702  28703  28704  28705  28706  28707  28708
+### ABIDEII-ONRC\_2_part3
+28709  28710  28714  28715  28716  28717  28718  28719  28720  28721  28722  28723  28724  28725  28726
+
+### ABIDEII-ONRC\_2_part4
+
+28681  28682  28683  28687  28711  28712  28713  28727  28728  28729  28730  28731  28732  28733  
+
+pa\_dirn\_checklist.csv
+
+
 
 
 # elsapy
