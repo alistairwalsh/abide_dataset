@@ -1,10 +1,6 @@
 # abide_dataset
 
-Sample Size
-Total: N = 59 (age range 18-31 years)
-
-Autism Spectrum Disorders (ASD): n = 24 (18-31 years)
-Typical Controls (TC): n = 35 (18-31 years)
+### [details](http://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html)
 
 ### ABIDEII-ONRC\_2_part1
 28675  28676  28677  28678  28679  28680  28684  28685  28686  28688  28689  28690  28691  28692  28693
